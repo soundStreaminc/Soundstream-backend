@@ -1,0 +1,1572 @@
+13.10.2024, 10:53:13 - INFO - Example app listening on port 3030
+13.10.2024, 10:54:24 - INFO - Example app listening on port 3030
+13.10.2024, 15:20:13 - INFO - Example app listening on port 3030
+13.10.2024, 15:25:37 - INFO - Example app listening on port 3030
+13.10.2024, 15:25:51 - INFO - Example app listening on port 3030
+13.10.2024, 15:26:09 - INFO - Example app listening on port 3030
+13.10.2024, 15:27:38 - INFO - Example app listening on port 3030
+13.10.2024, 15:31:01 - INFO - Example app listening on port 3030
+13.10.2024, 15:31:19 - INFO - Example app listening on port 3030
+13.10.2024, 15:47:20 - INFO - Example app listening on port 3030
+13.10.2024, 16:13:53 - INFO - Example app listening on port 3030
+13.10.2024, 16:15:35 - INFO - Example app listening on port 3030
+16.10.2024, 13:20:16 - INFO - Example app listening on port 3030
+16.10.2024, 13:34:19 - INFO - Example app listening on port 3030
+16.10.2024, 13:34:41 - INFO - Example app listening on port 3030
+16.10.2024, 13:36:26 - INFO - Example app listening on port 3030
+16.10.2024, 13:39:57 - INFO - Example app listening on port 3030
+16.10.2024, 13:42:01 - INFO - Example app listening on port 3030
+16.10.2024, 13:45:48 - INFO - Example app listening on port 3030
+16.10.2024, 13:46:17 - INFO - Example app listening on port 3030
+16.10.2024, 13:50:04 - INFO - Example app listening on port 3030
+16.10.2024, 13:50:36 - INFO - Example app listening on port 3030
+16.10.2024, 13:53:22 - INFO - Example app listening on port 3030
+16.10.2024, 13:56:01 - INFO - Example app listening on port 3030
+16.10.2024, 15:16:16 - INFO - Example app listening on port 3030
+16.10.2024, 15:17:08 - INFO - Example app listening on port 3030
+16.10.2024, 15:17:25 - INFO - Example app listening on port 3030
+16.10.2024, 15:18:30 - INFO - Example app listening on port 3030
+16.10.2024, 15:19:45 - INFO - Example app listening on port 3030
+16.10.2024, 15:20:02 - INFO - Example app listening on port 3030
+16.10.2024, 15:21:01 - INFO - Example app listening on port 3030
+16.10.2024, 15:21:13 - ERROR - TypeError: filterBy.toLowerCase is not a function
+16.10.2024, 15:22:01 - INFO - Example app listening on port 3030
+16.10.2024, 15:22:15 - INFO - Example app listening on port 3030
+16.10.2024, 15:22:22 - ERROR - TypeError: filterBy.toLowerCase is not a function
+16.10.2024, 15:22:24 - ERROR - TypeError: filterBy.toLowerCase is not a function
+16.10.2024, 15:23:12 - INFO - Example app listening on port 3030
+16.10.2024, 15:23:17 - ERROR - TypeError: Assignment to constant variable.
+16.10.2024, 15:23:47 - INFO - Example app listening on port 3030
+16.10.2024, 15:23:50 - ERROR - TypeError: Assignment to constant variable.
+16.10.2024, 15:24:11 - INFO - Example app listening on port 3030
+16.10.2024, 15:25:43 - INFO - Example app listening on port 3030
+16.10.2024, 15:26:04 - INFO - Example app listening on port 3030
+16.10.2024, 15:27:30 - INFO - Example app listening on port 3030
+16.10.2024, 15:27:31 - INFO - Example app listening on port 3030
+16.10.2024, 15:30:32 - INFO - Example app listening on port 3030
+16.10.2024, 15:30:38 - ERROR - ReferenceError: search is not defined
+16.10.2024, 15:30:55 - INFO - Example app listening on port 3030
+16.10.2024, 15:31:00 - ERROR - TypeError: Assignment to constant variable.
+16.10.2024, 15:31:59 - INFO - Example app listening on port 3030
+16.10.2024, 15:32:32 - INFO - Example app listening on port 3030
+16.10.2024, 15:32:49 - INFO - Example app listening on port 3030
+16.10.2024, 15:33:13 - INFO - Example app listening on port 3030
+16.10.2024, 15:33:45 - INFO - Example app listening on port 3030
+17.10.2024, 13:14:23 - INFO - Example app listening on port 3030
+17.10.2024, 13:17:55 - INFO - Example app listening on port 3030
+17.10.2024, 13:37:38 - INFO - Example app listening on port 3030
+17.10.2024, 13:41:49 - INFO - Example app listening on port 3030
+17.10.2024, 13:54:39 - INFO - Example app listening on port 3030
+17.10.2024, 13:58:18 - INFO - Example app listening on port 3030
+17.10.2024, 13:58:52 - INFO - Example app listening on port 3030
+17.10.2024, 13:59:23 - ERROR - ReferenceError: search is not defined
+17.10.2024, 14:00:48 - INFO - Example app listening on port 3030
+17.10.2024, 14:01:38 - INFO - Example app listening on port 3030
+17.10.2024, 14:02:35 - INFO - Example app listening on port 3030
+17.10.2024, 14:02:38 - INFO - Example app listening on port 3030
+17.10.2024, 14:03:42 - INFO - Example app listening on port 3030
+17.10.2024, 14:04:03 - INFO - Example app listening on port 3030
+17.10.2024, 14:05:11 - INFO - Example app listening on port 3030
+17.10.2024, 14:05:37 - INFO - Example app listening on port 3030
+17.10.2024, 14:06:40 - INFO - Example app listening on port 3030
+17.10.2024, 14:06:58 - INFO - Example app listening on port 3030
+17.10.2024, 14:07:31 - INFO - Example app listening on port 3030
+17.10.2024, 14:08:38 - INFO - Example app listening on port 3030
+17.10.2024, 14:10:13 - INFO - Example app listening on port 3030
+17.10.2024, 14:10:15 - INFO - Example app listening on port 3030
+17.10.2024, 14:12:05 - INFO - Example app listening on port 3030
+17.10.2024, 14:12:17 - INFO - Example app listening on port 3030
+17.10.2024, 14:24:02 - INFO - Example app listening on port 3030
+17.10.2024, 14:34:01 - INFO - Example app listening on port 3030
+17.10.2024, 14:36:37 - INFO - Example app listening on port 3030
+17.10.2024, 14:37:49 - INFO - Example app listening on port 3030
+17.10.2024, 14:39:22 - INFO - Example app listening on port 3030
+17.10.2024, 14:41:04 - INFO - Example app listening on port 3030
+17.10.2024, 14:41:42 - INFO - Example app listening on port 3030
+17.10.2024, 14:42:16 - INFO - Example app listening on port 3030
+17.10.2024, 14:42:30 - INFO - Example app listening on port 3030
+17.10.2024, 14:42:56 - INFO - Example app listening on port 3030
+17.10.2024, 14:43:24 - INFO - Example app listening on port 3030
+17.10.2024, 14:44:40 - INFO - Example app listening on port 3030
+17.10.2024, 14:47:59 - INFO - Example app listening on port 3030
+17.10.2024, 14:48:00 - INFO - Example app listening on port 3030
+17.10.2024, 14:48:18 - INFO - Example app listening on port 3030
+17.10.2024, 14:48:43 - INFO - Example app listening on port 3030
+17.10.2024, 14:54:31 - INFO - Example app listening on port 3030
+17.10.2024, 20:51:37 - INFO - Example app listening on port 3030
+17.10.2024, 21:05:48 - INFO - Example app listening on port 3030
+17.10.2024, 21:09:10 - INFO - Example app listening on port 3030
+17.10.2024, 21:11:15 - INFO - Example app listening on port 3030
+17.10.2024, 21:12:12 - INFO - Example app listening on port 3030
+17.10.2024, 21:12:52 - INFO - Example app listening on port 3030
+17.10.2024, 21:13:08 - INFO - Example app listening on port 3030
+17.10.2024, 21:13:58 - INFO - Example app listening on port 3030
+17.10.2024, 21:15:01 - INFO - Example app listening on port 3030
+17.10.2024, 21:17:49 - INFO - Example app listening on port 3030
+17.10.2024, 21:23:40 - INFO - Example app listening on port 3030
+17.10.2024, 21:25:47 - INFO - Example app listening on port 3030
+17.10.2024, 21:35:55 - INFO - Example app listening on port 3030
+17.10.2024, 21:35:55 - INFO - Example app listening on port 3030
+17.10.2024, 21:38:40 - INFO - Example app listening on port 3030
+17.10.2024, 21:38:55 - INFO - Example app listening on port 3030
+17.10.2024, 21:43:22 - INFO - Example app listening on port 3030
+17.10.2024, 21:45:07 - INFO - Example app listening on port 3030
+17.10.2024, 21:51:01 - INFO - Example app listening on port 3030
+17.10.2024, 21:51:09 - INFO - Example app listening on port 3030
+17.10.2024, 21:54:31 - INFO - Example app listening on port 3030
+17.10.2024, 21:56:38 - INFO - Example app listening on port 3030
+17.10.2024, 21:58:15 - INFO - Example app listening on port 3030
+17.10.2024, 22:00:00 - INFO - Example app listening on port 3030
+17.10.2024, 22:00:25 - INFO - Example app listening on port 3030
+17.10.2024, 22:01:17 - INFO - Example app listening on port 3030
+17.10.2024, 22:05:58 - INFO - Example app listening on port 3030
+17.10.2024, 22:06:23 - INFO - Example app listening on port 3030
+17.10.2024, 22:06:26 - INFO - Example app listening on port 3030
+17.10.2024, 22:08:15 - INFO - Example app listening on port 3030
+17.10.2024, 22:08:39 - INFO - Example app listening on port 3030
+17.10.2024, 22:11:25 - ERROR - could not find bug
+17.10.2024, 22:13:11 - INFO - Example app listening on port 3030
+17.10.2024, 22:13:32 - INFO - Example app listening on port 3030
+17.10.2024, 22:14:10 - ERROR - could not find bug
+17.10.2024, 22:14:54 - INFO - Example app listening on port 3030
+17.10.2024, 22:15:23 - INFO - Example app listening on port 3030
+17.10.2024, 22:15:56 - INFO - Example app listening on port 3030
+17.10.2024, 22:16:58 - INFO - Example app listening on port 3030
+17.10.2024, 22:17:40 - INFO - Example app listening on port 3030
+17.10.2024, 22:28:38 - INFO - Example app listening on port 3030
+17.10.2024, 22:29:26 - INFO - Example app listening on port 3030
+17.10.2024, 22:30:11 - INFO - Example app listening on port 3030
+17.10.2024, 22:39:57 - INFO - Example app listening on port 3030
+17.10.2024, 22:40:27 - INFO - Example app listening on port 3030
+17.10.2024, 22:40:57 - INFO - Example app listening on port 3030
+17.10.2024, 22:41:05 - INFO - Example app listening on port 3030
+17.10.2024, 22:42:10 - INFO - Example app listening on port 3030
+17.10.2024, 22:42:42 - INFO - Example app listening on port 3030
+17.10.2024, 22:43:24 - INFO - Example app listening on port 3030
+17.10.2024, 22:44:16 - INFO - Example app listening on port 3030
+17.10.2024, 22:44:34 - INFO - Example app listening on port 3030
+17.10.2024, 22:44:51 - INFO - Example app listening on port 3030
+17.10.2024, 22:46:59 - INFO - Example app listening on port 3030
+17.10.2024, 22:50:06 - INFO - Example app listening on port 3030
+17.10.2024, 22:51:24 - INFO - Example app listening on port 3030
+17.10.2024, 23:09:29 - INFO - Example app listening on port 3030
+17.10.2024, 23:09:48 - INFO - Example app listening on port 3030
+17.10.2024, 23:09:51 - INFO - Example app listening on port 3030
+17.10.2024, 23:09:54 - INFO - Example app listening on port 3030
+17.10.2024, 23:10:00 - INFO - Example app listening on port 3030
+17.10.2024, 23:10:08 - INFO - Example app listening on port 3030
+17.10.2024, 23:10:31 - INFO - Example app listening on port 3030
+17.10.2024, 23:10:40 - INFO - Example app listening on port 3030
+17.10.2024, 23:10:47 - INFO - Example app listening on port 3030
+17.10.2024, 23:11:25 - INFO - Example app listening on port 3030
+17.10.2024, 23:12:18 - INFO - Example app listening on port 3030
+17.10.2024, 23:14:27 - INFO - Example app listening on port 3030
+17.10.2024, 23:15:26 - INFO - Example app listening on port 3030
+17.10.2024, 23:15:56 - INFO - Example app listening on port 3030
+17.10.2024, 23:18:03 - INFO - Example app listening on port 3030
+17.10.2024, 23:26:43 - INFO - Example app listening on port 3030
+17.10.2024, 23:42:02 - INFO - Example app listening on port 3030
+17.10.2024, 23:46:54 - INFO - Example app listening on port 3030
+17.10.2024, 23:47:01 - INFO - Example app listening on port 3030
+21.10.2024, 17:33:35 - INFO - Example app listening on port 3030
+21.10.2024, 17:55:34 - INFO - Example app listening on port 3030
+24.10.2024, 13:31:02 - INFO - Example app listening on port 3030
+24.10.2024, 13:34:33 - INFO - Example app listening on port 3030
+24.10.2024, 13:52:27 - INFO - Example app listening on port 3030
+24.10.2024, 13:53:17 - INFO - Example app listening on port 3030
+24.10.2024, 13:53:21 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","score":2342342,"isAdmin":false}
+24.10.2024, 13:54:01 - INFO - Example app listening on port 3030
+24.10.2024, 13:55:58 - INFO - Example app listening on port 3030
+24.10.2024, 13:58:31 - INFO - Example app listening on port 3030
+24.10.2024, 13:59:19 - INFO - Example app listening on port 3030
+24.10.2024, 13:59:23 - DEBUG - trrrrrrrrrrrry me!
+24.10.2024, 13:59:23 - ERROR -  Failed to Signup NaN
+24.10.2024, 13:59:23 - DEBUG - auth.service - signup with username: trrrrrrrrrrrry me!, fullname: Muki6 Ja
+24.10.2024, 14:00:11 - INFO - Example app listening on port 3030
+24.10.2024, 14:01:18 - INFO - Example app listening on port 3030
+24.10.2024, 14:01:40 - DEBUG - trrrrrrrrrrrry me!
+24.10.2024, 14:01:40 - DEBUG - auth.service - signup with username: trrrrrrrrrrrry me!, fullname: Muki6 Ja
+24.10.2024, 14:01:40 - INFO - User signup : | {"_id":"XI97p","fullname":"Muki6 Ja","score":2342342,"isAdmin":false}
+24.10.2024, 14:01:40 - ERROR - Username already taken
+24.10.2024, 14:01:40 - DEBUG - auth.route (controller) - new account:undefined
+24.10.2024, 14:04:50 - INFO - Example app listening on port 3030
+24.10.2024, 14:04:58 - DEBUG - trrrrrrrrrrrry me!
+24.10.2024, 14:04:58 - DEBUG - auth.service - signup with username: trrrrrrrrrrrry me!, fullname: Muki6 Ja
+24.10.2024, 14:04:58 - ERROR - Username already taken
+24.10.2024, 14:04:58 - ERROR -  Failed to Signup NaN
+24.10.2024, 14:06:15 - INFO - Example app listening on port 3030
+24.10.2024, 14:06:19 - DEBUG - trrrrrrrrrrrry me!
+24.10.2024, 14:06:19 - DEBUG - auth.service - signup with username: trrrrrrrrrrrry me!, fullname: Muki6 Ja
+24.10.2024, 14:06:19 - ERROR -  Failed to Signup Username already taken
+24.10.2024, 14:06:19 - ERROR - Username already taken
+24.10.2024, 14:07:22 - DEBUG - apiAddUser
+24.10.2024, 14:07:22 - DEBUG - auth.service - signup with username: apiAddUser, fullname: Mr. Pickles
+24.10.2024, 14:07:22 - ERROR - ReferenceError: bcrypt is not defined
+24.10.2024, 14:07:22 - ERROR -  Failed to Signup ReferenceError: bcrypt is not defined
+24.10.2024, 14:08:49 - INFO - Example app listening on port 3030
+24.10.2024, 14:09:10 - INFO - Example app listening on port 3030
+24.10.2024, 14:09:12 - INFO - Example app listening on port 3030
+24.10.2024, 14:09:18 - DEBUG - apiAddUser
+24.10.2024, 14:09:18 - DEBUG - auth.service - signup with username: apiAddUser, fullname: Mr. Pickles
+24.10.2024, 14:09:18 - DEBUG - auth.route (controller) - new account:{"username":"apiAddUser","password":"$2b$10$/xNntji26wnCDvGcE6VBuejVIZ/3kSMcc/qVYa5oIAa5AyDBvNTV6","fullname":"Mr. Pickles","_id":"TMzDs","createdAt":1729768158808}
+24.10.2024, 14:09:18 - INFO - User signup : | {"_id":"TMzDs","fullname":"Mr. Pickles"}
+24.10.2024, 14:19:01 - INFO - Example app listening on port 3030
+24.10.2024, 14:21:18 - INFO - Example app listening on port 3030
+24.10.2024, 14:21:35 - DEBUG - apiAddUser2
+24.10.2024, 14:21:35 - DEBUG - auth.service - signup with username: apiAddUser2, fullname: Mr. Pickles2
+24.10.2024, 14:21:35 - ERROR -  Failed to Signup ReferenceError: err is not defined
+24.10.2024, 14:22:32 - INFO - Example app listening on port 3030
+24.10.2024, 14:22:45 - DEBUG - apiAddUser2
+24.10.2024, 14:22:45 - DEBUG - auth.service - signup with username: apiAddUser2, fullname: Mr. Pickles2
+24.10.2024, 14:22:45 - ERROR -  Failed to Signup ReferenceError: err is not defined
+24.10.2024, 14:24:02 - INFO - Example app listening on port 3030
+24.10.2024, 14:24:09 - DEBUG - apiAddUser2
+24.10.2024, 14:24:09 - DEBUG - auth.service - signup with username: apiAddUser2, fullname: Mr. Pickles2
+24.10.2024, 14:24:09 - ERROR -  Failed to Signup ReferenceError: err is not defined
+24.10.2024, 14:25:12 - INFO - Example app listening on port 3030
+24.10.2024, 14:25:17 - DEBUG - apiAddUser2
+24.10.2024, 14:25:17 - DEBUG - auth.service - signup with username: apiAddUser2, fullname: Mr. Pickles2
+24.10.2024, 14:25:17 - ERROR -  Failed to Signup ReferenceError: err is not defined
+24.10.2024, 14:26:29 - INFO - Example app listening on port 3030
+24.10.2024, 14:26:32 - DEBUG - apiAddUser2
+24.10.2024, 14:26:32 - DEBUG - auth.service - signup with username: apiAddUser2, fullname: Mr. Pickles2
+24.10.2024, 14:26:32 - ERROR -  Failed to Signup ReferenceError: err is not defined
+24.10.2024, 14:27:03 - INFO - Example app listening on port 3030
+24.10.2024, 14:27:05 - DEBUG - apiAddUser2
+24.10.2024, 14:27:05 - DEBUG - auth.service - signup with username: apiAddUser2, fullname: Mr. Pickles2
+24.10.2024, 14:27:05 - ERROR -  Failed to Signup ReferenceError: err is not defined
+24.10.2024, 14:27:54 - INFO - Example app listening on port 3030
+24.10.2024, 14:27:59 - DEBUG - apiAddUser2
+24.10.2024, 14:27:59 - DEBUG - auth.service - signup with username: apiAddUser2, fullname: Mr. Pickles2
+24.10.2024, 14:27:59 - ERROR -  Failed to Signup ReferenceError: err is not defined
+24.10.2024, 14:28:10 - INFO - Example app listening on port 3030
+24.10.2024, 14:28:28 - INFO - Example app listening on port 3030
+24.10.2024, 14:28:33 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","score":2342342,"isAdmin":false}
+24.10.2024, 14:28:41 - DEBUG - apiAddUser2
+24.10.2024, 14:28:41 - DEBUG - auth.service - signup with username: apiAddUser2, fullname: Mr. Pickles2
+24.10.2024, 14:28:41 - DEBUG - auth.route (controller) - new account:{"username":"apiAddUser2","password":"$2b$10$IhcADoDpO/Mc.a021ZXAR.OLOG4Bz6Mj.7Fl6/aFRk0MQRyYHUD3m","fullname":"Mr. Pickles2"}
+24.10.2024, 14:28:41 - INFO - User signup : | {"_id":"yxsiU","fullname":"Mr. Pickles2"}
+24.10.2024, 14:29:24 - INFO - Example app listening on port 3030
+24.10.2024, 14:29:26 - DEBUG - auth.service - signup with username: apiAddUser3, fullname: Mr. Pickles3
+24.10.2024, 14:29:26 - DEBUG - apiAddUser3
+24.10.2024, 14:29:26 - ERROR -  Failed to Signup ReferenceError: err is not defined
+24.10.2024, 14:30:07 - INFO - Example app listening on port 3030
+24.10.2024, 14:30:13 - DEBUG - apiAddUser3
+24.10.2024, 14:30:13 - DEBUG - auth.service - signup with username: apiAddUser3, fullname: Mr. Pickles3
+24.10.2024, 14:30:13 - DEBUG - auth.route (controller) - new account:{"username":"apiAddUser3","password":"$2b$10$ZLiKaqxWX7zRn682u1h4re.vShzK0UD9Dl8u2JjeTcPxrvpXCkTwS","fullname":"Mr. Pickles3"}
+24.10.2024, 14:30:13 - INFO - User signup : | {"_id":"AtZ0x","fullname":"Mr. Pickles3","score":10000,"isAdmin":false}
+27.10.2024, 7:50:54 - INFO - Example app listening on port 3030
+27.10.2024, 8:05:06 - INFO - Example app listening on port 3030
+27.10.2024, 8:40:35 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","score":2342342,"isAdmin":false}
+27.10.2024, 8:51:18 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","score":2342342,"isAdmin":false}
+27.10.2024, 8:54:46 - INFO - Example app listening on port 3030
+27.10.2024, 8:54:49 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 12:37:13 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 12:44:43 - INFO - Example app listening on port 3030
+27.10.2024, 12:44:47 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 12:45:06 - INFO - Example app listening on port 3030
+27.10.2024, 12:46:33 - INFO - Example app listening on port 3030
+27.10.2024, 12:46:38 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 12:47:15 - INFO - Example app listening on port 3030
+27.10.2024, 12:48:19 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 12:49:45 - INFO - Example app listening on port 3030
+27.10.2024, 12:50:32 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 12:50:35 - DEBUG - user logged out
+27.10.2024, 12:51:18 - INFO - Example app listening on port 3030
+27.10.2024, 12:51:22 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 12:51:25 - DEBUG - user logged out
+27.10.2024, 13:44:47 - DEBUG - user logged out
+27.10.2024, 13:44:49 - DEBUG - user logged out
+27.10.2024, 13:44:49 - DEBUG - user logged out
+27.10.2024, 13:45:01 - DEBUG - user logged out
+27.10.2024, 13:58:54 - INFO - Example app listening on port 3030
+27.10.2024, 13:59:33 - DEBUG - user logged out
+27.10.2024, 14:45:39 - INFO - Example app listening on port 3030
+27.10.2024, 14:47:27 - DEBUG - ksdnfkdslndsf
+27.10.2024, 14:47:27 - DEBUG - auth.service - signup with username: ksdnfkdslndsf, fullname: aviavi
+27.10.2024, 14:47:27 - INFO - User signup : | {"_id":"9GJrf","fullname":"aviavi","img":"","score":10000,"isAdmin":false}
+27.10.2024, 14:47:27 - DEBUG - auth.route (controller) - new account:{"username":"ksdnfkdslndsf","password":"$2b$10$FOeXILzR1JepRh8HQdL4xOFz5HdAwFR0AWSyST01RcD72nBzw8IQe","fullname":"aviavi"}
+27.10.2024, 14:49:11 - DEBUG - sdsddsdsf
+27.10.2024, 14:49:11 - DEBUG - auth.service - signup with username: sdsddsdsf, fullname: aviavi
+27.10.2024, 14:49:11 - DEBUG - auth.route (controller) - new account:{"username":"sdsddsdsf","password":"$2b$10$Oao/Ym3pD3fKEE9sdadGkegLVpmlepDuGRl1nSBd.aqFPjXuxbBbm","fullname":"aviavi"}
+27.10.2024, 14:49:11 - INFO - User signup : | {"_id":"0rYUe","fullname":"aviavi","img":"","score":10000,"isAdmin":false}
+27.10.2024, 14:51:52 - DEBUG - apiUser
+27.10.2024, 14:51:52 - DEBUG - auth.service - signup with username: apiUser, fullname: very pleasent user
+27.10.2024, 14:51:52 - DEBUG - auth.route (controller) - new account:{"username":"apiUser","password":"$2b$10$mb59oezJDOvaY.3azKy8nughA9Wu92wppRUIL47T29Fhs0WAa5eIS","fullname":"very pleasent user"}
+27.10.2024, 14:51:52 - INFO - User signup : | {"_id":"DvGDP","fullname":"very pleasent user","img":"","score":10000,"isAdmin":false}
+27.10.2024, 14:54:17 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 14:54:17 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi
+27.10.2024, 14:54:17 - INFO - User signup : | {"_id":"v5TkA","fullname":"lopsi","img":"","score":10000,"isAdmin":false}
+27.10.2024, 14:54:17 - DEBUG - auth.route (controller) - new account:{"username":"dsfdsfdsfsfds","password":"$2b$10$Y.ZJRHg7AbwZp3sIPgULN.wJqkgnw1PZhSnHlndVtbqnd8Do42vUS","fullname":"lopsi"}
+27.10.2024, 14:57:03 - DEBUG - user logged out
+27.10.2024, 14:57:10 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 14:57:10 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi2
+27.10.2024, 14:57:10 - ERROR - Username already taken
+27.10.2024, 14:57:10 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:01:49 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 15:01:49 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi2
+27.10.2024, 15:01:49 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:01:49 - ERROR - Username already taken
+27.10.2024, 15:02:17 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi2
+27.10.2024, 15:02:17 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 15:02:17 - ERROR - Username already taken
+27.10.2024, 15:02:17 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:04:02 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 15:04:02 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi2
+27.10.2024, 15:04:02 - ERROR - Username already taken
+27.10.2024, 15:04:02 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:04:30 - INFO - Example app listening on port 3030
+27.10.2024, 15:04:34 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 15:04:34 - ERROR - Username already taken
+27.10.2024, 15:04:34 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi2
+27.10.2024, 15:04:34 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:07:04 - INFO - Example app listening on port 3030
+27.10.2024, 15:07:09 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 15:07:09 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi2
+27.10.2024, 15:07:09 - ERROR - Username already taken
+27.10.2024, 15:07:09 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:08:51 - INFO - Example app listening on port 3030
+27.10.2024, 15:08:56 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi2
+27.10.2024, 15:08:56 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 15:08:56 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:08:56 - ERROR - Username already taken
+27.10.2024, 15:10:33 - INFO - Example app listening on port 3030
+27.10.2024, 15:10:37 - ERROR - Username already taken
+27.10.2024, 15:10:37 - DEBUG - auth.service - signup with username: dsfdsfdsfsfds, fullname: lopsi2
+27.10.2024, 15:10:37 - DEBUG - dsfdsfdsfsfds
+27.10.2024, 15:10:37 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:11:15 - DEBUG - testing in progress
+27.10.2024, 15:11:15 - DEBUG - auth.service - signup with username: testing in progress, fullname: tester choice
+27.10.2024, 15:11:15 - DEBUG - auth.route (controller) - new account:{"username":"testing in progress","password":"$2b$10$xVwjKi4Bk/bCyiXF2yYJU.MzSWIxTaxZlhLHt84ZWUqmnqo6VD7vy","fullname":"tester choice"}
+27.10.2024, 15:11:15 - INFO - User signup : | {"_id":"BpRWL","fullname":"tester choice","img":"","score":10000,"isAdmin":false}
+27.10.2024, 15:11:20 - DEBUG - user logged out
+27.10.2024, 15:11:26 - DEBUG - testing in progress2
+27.10.2024, 15:11:26 - DEBUG - auth.service - signup with username: testing in progress2, fullname: tester choice
+27.10.2024, 15:11:26 - DEBUG - auth.route (controller) - new account:{"username":"testing in progress2","password":"$2b$10$Yok1y.PXk6aEtiNkuWvI5Oba1Fqhd1tcmI0OoOr242mDKxaph/642","fullname":"tester choice"}
+27.10.2024, 15:11:26 - INFO - User signup : | {"_id":"VA4fv","fullname":"tester choice","img":"","score":10000,"isAdmin":false}
+27.10.2024, 15:11:32 - DEBUG - user logged out
+27.10.2024, 15:11:38 - DEBUG - testing in progress2
+27.10.2024, 15:11:38 - DEBUG - auth.service - signup with username: testing in progress2, fullname: tester choice2
+27.10.2024, 15:11:38 - ERROR -  Failed to Signup Username already taken
+27.10.2024, 15:11:38 - ERROR - Username already taken
+27.10.2024, 15:17:32 - DEBUG - auth.service - signup with username: testing in progress3, fullname: tester choice3
+27.10.2024, 15:17:32 - DEBUG - testing in progress3
+27.10.2024, 15:17:32 - DEBUG - auth.route (controller) - new account:{"username":"testing in progress3","password":"$2b$10$Dat12H4bvCSwZ7FHT7ut8OxpUPMupn/fKvMkyS/tflr9s5otmDjz6","fullname":"tester choice3"}
+27.10.2024, 15:17:32 - INFO - User signup : | {"_id":"Skmra","fullname":"tester choice3","img":"","score":10000,"isAdmin":false}
+27.10.2024, 15:18:52 - DEBUG - user logged out
+27.10.2024, 15:18:57 - DEBUG - testing in progress4
+27.10.2024, 15:18:57 - DEBUG - auth.service - signup with username: testing in progress4, fullname: tester choice4
+27.10.2024, 15:18:58 - DEBUG - auth.route (controller) - new account:{"username":"testing in progress4","password":"$2b$10$ncAU5x.eexgLbj9vK0UnuetkO4n9BzzvROcAaCSwDF5auROzKpEmW","fullname":"tester choice4"}
+27.10.2024, 15:18:58 - INFO - User signup : | {"_id":"A42FW","fullname":"tester choice4","img":"","score":10000,"isAdmin":false}
+27.10.2024, 21:18:44 - INFO - Example app listening on port 3030
+27.10.2024, 21:19:29 - INFO - Example app listening on port 3030
+27.10.2024, 21:23:14 - DEBUG - user logged out
+27.10.2024, 21:37:12 - INFO - Example app listening on port 3030
+27.10.2024, 21:38:11 - INFO - Example app listening on port 3030
+27.10.2024, 21:38:35 - INFO - Example app listening on port 3030
+27.10.2024, 21:39:33 - INFO - Example app listening on port 3030
+27.10.2024, 21:44:10 - INFO - Example app listening on port 3030
+27.10.2024, 21:45:18 - INFO - Example app listening on port 3030
+27.10.2024, 21:46:36 - INFO - Example app listening on port 3030
+27.10.2024, 21:47:01 - INFO - Example app listening on port 3030
+27.10.2024, 21:48:18 - INFO - Example app listening on port 3030
+27.10.2024, 21:48:35 - DEBUG - Invalid login token 
+27.10.2024, 21:48:35 - ERROR - bad loggedinToken sent: undefined
+27.10.2024, 21:49:42 - INFO - Example app listening on port 3030
+27.10.2024, 21:50:42 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 21:50:55 - DEBUG - Invalid login token 
+27.10.2024, 21:50:55 - ERROR - bad loggedinToken sent: undefined
+27.10.2024, 21:52:17 - INFO - Example app listening on port 3030
+27.10.2024, 21:52:24 - DEBUG - Invalid login token 
+27.10.2024, 21:52:24 - ERROR - bad loggedinToken sent: undefined
+27.10.2024, 21:52:57 - INFO - Example app listening on port 3030
+27.10.2024, 21:53:55 - INFO - Example app listening on port 3030
+27.10.2024, 21:54:01 - DEBUG - Invalid login token 
+27.10.2024, 21:54:01 - ERROR - bad loggedinToken sent: undefined
+27.10.2024, 21:55:57 - DEBUG - Invalid login token 
+27.10.2024, 21:55:57 - ERROR - bad loggedinToken sent: undefined
+27.10.2024, 21:57:28 - INFO - Example app listening on port 3030
+27.10.2024, 21:57:34 - DEBUG - Invalid login token 
+27.10.2024, 21:57:34 - ERROR - bad loggedinToken sent: undefined
+27.10.2024, 21:57:50 - INFO - Example app listening on port 3030
+27.10.2024, 21:58:03 - DEBUG - Invalid login token 
+27.10.2024, 21:58:03 - ERROR - bad loggedinToken sent: undefined
+27.10.2024, 21:58:26 - INFO - Example app listening on port 3030
+27.10.2024, 21:58:33 - DEBUG - Invalid login token 
+27.10.2024, 21:58:33 - ERROR - bad loggedinToken sent: undefined
+27.10.2024, 21:59:37 - INFO - Example app listening on port 3030
+27.10.2024, 22:04:46 - INFO - Example app listening on port 3030
+27.10.2024, 22:04:50 - DEBUG - user logged out
+27.10.2024, 22:05:06 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 22:06:14 - DEBUG - Invalid login token 
+27.10.2024, 22:06:14 - ERROR - bad loginToken sent: [object Object]
+27.10.2024, 22:12:47 - DEBUG - Invalid login token 
+27.10.2024, 22:12:47 - ERROR - bad loginToken sent: undefined
+27.10.2024, 22:16:34 - INFO - Example app listening on port 3030
+27.10.2024, 22:16:37 - DEBUG - user logged out
+27.10.2024, 22:16:40 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 22:17:49 - INFO - Example app listening on port 3030
+27.10.2024, 22:17:56 - INFO - Example app listening on port 3030
+27.10.2024, 22:18:00 - DEBUG - user logged out
+27.10.2024, 22:18:01 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 22:18:46 - INFO - Example app listening on port 3030
+27.10.2024, 22:19:53 - INFO - Example app listening on port 3030
+27.10.2024, 22:20:32 - INFO - Example app listening on port 3030
+27.10.2024, 22:20:36 - DEBUG - user logged out
+27.10.2024, 22:20:37 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+27.10.2024, 22:21:58 - INFO - Example app listening on port 3030
+27.10.2024, 22:25:37 - INFO - Example app listening on port 3030
+27.10.2024, 22:27:58 - INFO - Example app listening on port 3030
+27.10.2024, 22:27:59 - INFO - Example app listening on port 3030
+27.10.2024, 23:55:17 - INFO - Example app listening on port 3030
+27.10.2024, 23:55:40 - INFO - Example app listening on port 3030
+27.10.2024, 23:55:51 - INFO - Example app listening on port 3030
+27.10.2024, 23:58:20 - INFO - Example app listening on port 3030
+28.10.2024, 0:00:29 - DEBUG - user logged out
+28.10.2024, 0:00:34 - INFO - User login:  | {"_id":"2VMIh","img":"https://www.klenty.com/blog/wp-content/uploads/2023/11/sales-memes-from-the-office.webp","score":null,"isAdmin":false}
+28.10.2024, 0:02:05 - DEBUG - user logged out
+28.10.2024, 0:02:19 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+28.10.2024, 0:04:00 - DEBUG - Invalid login token 
+28.10.2024, 0:04:00 - ERROR - bad loginToken sent: undefined
+28.10.2024, 0:05:00 - INFO - Example app listening on port 3030
+28.10.2024, 0:05:05 - ERROR - removeBug failed: could not remove bug
+28.10.2024, 0:05:57 - INFO - Example app listening on port 3030
+28.10.2024, 0:06:03 - ERROR - removeBug failed: TypeError: Cannot read properties of undefined (reading '_id')
+28.10.2024, 0:06:55 - INFO - Example app listening on port 3030
+28.10.2024, 0:06:58 - ERROR - removeBug failed: TypeError: Cannot read properties of undefined (reading '_id')
+28.10.2024, 0:08:08 - INFO - Example app listening on port 3030
+28.10.2024, 0:08:35 - ERROR - removeBug failed: TypeError: Cannot read properties of undefined (reading '_id')
+28.10.2024, 0:09:27 - INFO - Example app listening on port 3030
+28.10.2024, 0:10:54 - INFO - Example app listening on port 3030
+28.10.2024, 0:12:18 - INFO - Example app listening on port 3030
+28.10.2024, 0:14:53 - INFO - Example app listening on port 3030
+28.10.2024, 0:18:21 - INFO - Example app listening on port 3030
+28.10.2024, 0:19:33 - INFO - Example app listening on port 3030
+28.10.2024, 0:22:25 - INFO - Example app listening on port 3030
+28.10.2024, 0:22:58 - INFO - Example app listening on port 3030
+28.10.2024, 0:56:44 - DEBUG - user logged out
+28.10.2024, 0:56:49 - INFO - User login:  | {"_id":"2VMIh","img":"https://www.klenty.com/blog/wp-content/uploads/2023/11/sales-memes-from-the-office.webp","score":null,"isAdmin":false}
+28.10.2024, 1:05:21 - DEBUG - user logged out
+28.10.2024, 1:05:42 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+28.10.2024, 1:13:02 - DEBUG - user logged out
+28.10.2024, 1:13:14 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+28.10.2024, 1:13:19 - DEBUG - user logged out
+28.10.2024, 1:13:43 - DEBUG - trrrrrrrrrrrry me2!
+28.10.2024, 1:13:43 - DEBUG - auth.service - signup with username: trrrrrrrrrrrry me2!, fullname: i am mr pickles!
+28.10.2024, 1:13:43 - INFO - User signup : | {"_id":"tKjvk","fullname":"i am mr pickles!","img":"","score":10000,"isAdmin":false}
+28.10.2024, 1:13:43 - DEBUG - auth.route (controller) - new account:{"username":"trrrrrrrrrrrry me2!","password":"$2b$10$3.Acr0Cea1N.zEjje5GVcuujsWFdxOSsBlY1sPMhiErHN4/D/CuGu","fullname":"i am mr pickles!"}
+28.10.2024, 8:50:28 - INFO - Example app listening on port 3030
+28.10.2024, 8:57:42 - INFO - Example app listening on port 3030
+28.10.2024, 8:57:46 - INFO - Example app listening on port 3030
+28.10.2024, 9:01:32 - INFO - Example app listening on port 3030
+28.10.2024, 9:02:25 - INFO - Example app listening on port 3030
+28.10.2024, 9:02:32 - INFO - visited route /logout
+28.10.2024, 9:02:32 - DEBUG - user logged out
+28.10.2024, 9:03:30 - INFO - Example app listening on port 3030
+28.10.2024, 9:05:45 - INFO - Example app listening on port 3030
+28.10.2024, 9:05:59 - INFO - Example app listening on port 3030
+28.10.2024, 9:07:27 - INFO - Example app listening on port 3030
+28.10.2024, 9:08:43 - INFO - Example app listening on port 3030
+28.10.2024, 9:10:52 - INFO - Example app listening on port 3030
+28.10.2024, 9:12:04 - INFO - Example app listening on port 3030
+28.10.2024, 9:13:44 - DEBUG - Invalid login token 
+28.10.2024, 9:14:40 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+28.10.2024, 9:14:40 - INFO - visited route /login
+28.10.2024, 9:16:39 - INFO - Example app listening on port 3030
+28.10.2024, 9:16:39 - INFO - Example app listening on port 3030
+28.10.2024, 9:37:41 - INFO - visited route /logout
+28.10.2024, 9:37:41 - DEBUG - user logged out
+28.10.2024, 9:37:48 - INFO - visited route /login
+28.10.2024, 9:37:48 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+28.10.2024, 9:38:08 - INFO - visited route /logout
+28.10.2024, 9:38:08 - DEBUG - user logged out
+28.10.2024, 9:38:17 - INFO - User login:  | {"_id":"2VMIh","img":"https://www.klenty.com/blog/wp-content/uploads/2023/11/sales-memes-from-the-office.webp","score":null,"isAdmin":false}
+28.10.2024, 9:38:17 - INFO - visited route /login
+28.10.2024, 9:46:50 - INFO - Example app listening on port 3030
+28.10.2024, 9:47:02 - INFO - Example app listening on port 3030
+28.10.2024, 9:49:55 - INFO - Example app listening on port 3030
+28.10.2024, 10:32:04 - INFO - Example app listening on port 3030
+28.10.2024, 10:32:31 - INFO - visited route /logout
+28.10.2024, 10:32:31 - DEBUG - user logged out
+28.10.2024, 10:32:46 - INFO - visited route /signup
+28.10.2024, 10:32:46 - DEBUG - testing user encypt
+28.10.2024, 10:32:46 - DEBUG - auth.service - signup with username: testing user encypt, fullname: testing
+28.10.2024, 10:32:46 - DEBUG - auth.route (controller) - new account:{"username":"testing user encypt","password":"$2b$10$Evgjv2lULUgdA3AGJMhZjeGNuy1T7Wv8AqUacgh40MwQ28ERx5fii","fullname":"testing"}
+28.10.2024, 10:32:46 - INFO - User signup : | {"_id":"IqL13","fullname":"testing","img":"","score":10000,"isAdmin":false}
+28.10.2024, 19:37:47 - INFO - Example app listening on port 3030
+28.10.2024, 19:38:39 - INFO - visited route /logout
+28.10.2024, 19:38:39 - DEBUG - user logged out
+28.10.2024, 19:38:59 - INFO - visited route /login
+28.10.2024, 19:38:59 - INFO - User login:  | {"_id":"XI97p","fullname":"Muki6 Ja","img":"https://m.media-amazon.com/images/I/91ZhFnr13LL.png","score":2342342,"isAdmin":false}
+28.10.2024, 19:39:44 - INFO - visited route /logout
+28.10.2024, 19:39:44 - DEBUG - user logged out
+28.10.2024, 19:40:08 - INFO - visited route /signup
+28.10.2024, 19:40:08 - DEBUG - trrrrrrrrrrrry me!
+28.10.2024, 19:40:08 - ERROR -  Failed to Signup Username already taken
+28.10.2024, 19:40:08 - DEBUG - auth.service - signup with username: trrrrrrrrrrrry me!, fullname: testing my error handling
+28.10.2024, 19:40:08 - ERROR - Username already taken
+28.10.2024, 19:47:28 - DEBUG - Invalid login token 
+29.10.2024, 8:50:16 - DEBUG - user testing 1 2
+29.10.2024, 8:50:16 - ERROR - TypeError: loggerService.log is not a function
+29.10.2024, 8:50:16 - ERROR -  Failed to Signup TypeError: loggerService.log is not a function
+29.10.2024, 8:50:16 - INFO - visited route /signup
+29.10.2024, 8:54:58 - INFO - Example app listening on port 3030
+29.10.2024, 8:55:23 - INFO - visited route /signup
+29.10.2024, 8:55:23 - DEBUG - testing my app
+29.10.2024, 8:55:23 - INFO - Missing credentials, should have been spotted at frontend
+29.10.2024, 8:55:23 - ERROR -  Failed to Signup Missing required signup info
+29.10.2024, 8:55:23 - ERROR - Missing required signup info
+29.10.2024, 8:56:56 - INFO - Example app listening on port 3030
+29.10.2024, 8:57:05 - INFO - visited route /signup
+29.10.2024, 8:57:05 - DEBUG - sfsdfsdfdsfsd
+29.10.2024, 8:57:05 - INFO - Missing credentials, should have been spotted at frontend
+29.10.2024, 8:57:05 - ERROR -  Failed to Signup Missing required signup info
+29.10.2024, 8:57:05 - ERROR - Missing required signup info
+29.10.2024, 8:58:32 - INFO - visited route /signup
+29.10.2024, 8:58:32 - INFO - Missing credentials, should have been spotted at frontend
+29.10.2024, 8:58:32 - DEBUG - sdsdfdsfdsf
+29.10.2024, 8:58:32 - ERROR - Missing required signup info
+29.10.2024, 8:58:32 - ERROR -  Failed to Signup Missing required signup info
+29.10.2024, 9:01:35 - INFO - visited route /signup
+29.10.2024, 9:01:35 - DEBUG - asdasdsad
+29.10.2024, 9:01:35 - DEBUG - auth.service - signup with username: asdasdsad, fullname: sadsdsdfsdf
+29.10.2024, 9:01:35 - ERROR - Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+29.10.2024, 9:01:35 - ERROR -  Failed to Signup Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+29.10.2024, 9:03:54 - INFO - Example app listening on port 3030
+29.10.2024, 9:04:05 - INFO - visited route /signup
+29.10.2024, 9:04:05 - DEBUG - asdsaadsadsdadasdsaddsd
+29.10.2024, 9:04:05 - DEBUG - auth.service - signup with username: asdsaadsadsdadasdsaddsd, fullname: testing my function
+29.10.2024, 9:04:05 - ERROR - Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+29.10.2024, 9:04:05 - ERROR -  Failed to Signup Error: data must be a string or Buffer and salt must either be a salt string or a number of rounds
+29.10.2024, 9:07:36 - INFO - visited route /signup
+29.10.2024, 9:07:36 - DEBUG - this is my last attempt!
+29.10.2024, 9:07:36 - DEBUG - auth.service - signup with username: this is my last attempt!, fullname: this should work
+29.10.2024, 9:07:36 - DEBUG - auth.route (controller) - new account:{"username":"this is my last attempt!","password":"$2b$10$Vl.qMCNi8Fu8N5S8YmCAyu4V/2SQNSUtrKkwnHAnY4tToWouw2k3S","fullname":"this should work"}
+29.10.2024, 9:07:36 - INFO - User signup : | {"_id":"IlnTu","fullname":"this should work","img":"","score":10000,"isAdmin":false}
+29.10.2024, 9:10:40 - DEBUG - give it another try?
+29.10.2024, 9:10:40 - INFO - visited route /signup
+29.10.2024, 9:10:40 - DEBUG - auth.service - signup with username: give it another try?, fullname: this is defenitly working
+29.10.2024, 9:10:40 - DEBUG - auth.route (controller) - new account:{"username":"give it another try?","password":"$2b$10$g8nCbLlcza4X2ZgFf9FgTOTZ7GZArtksA/KK2hVEZxxSJKBOfi4Sq","fullname":"this is defenitly working"}
+29.10.2024, 9:10:40 - INFO - User signup : | {"_id":"9qdjQ","fullname":"this is defenitly working","img":"","score":10000,"isAdmin":false}
+29.10.2024, 9:24:02 - INFO - Example app listening on port 3030
+29.10.2024, 9:26:32 - INFO - Example app listening on port 3030
+29.10.2024, 9:27:49 - INFO - Example app listening on port 3030
+29.10.2024, 9:29:10 - INFO - Example app listening on port 3030
+29.10.2024, 9:29:27 - DEBUG - auth.service - signup with username: this is error?, fullname: defenitaly an error
+29.10.2024, 9:31:16 - INFO - Example app listening on port 3030
+29.10.2024, 9:47:08 - INFO - visited route /logout
+29.10.2024, 9:47:08 - DEBUG - user logged out
+29.10.2024, 9:51:11 - DEBUG - creating new user
+29.10.2024, 9:51:11 - INFO - visited route /signup
+29.10.2024, 9:51:11 - DEBUG - auth.service - signup with username: creating new user, fullname: this is my fullname
+29.10.2024, 9:51:11 - DEBUG - auth.route (controller) - new account:{"username":"creating new user","password":"$2b$10$Zp3ETEddAhIsdERmTlb5oO9QD/Mw4//4miCpIlfZvYWhDax.mb1YW","fullname":"this is my fullname"}
+29.10.2024, 9:51:11 - INFO - User signup : | {"_id":"QB89r","fullname":"this is my fullname","img":"","score":10000,"isAdmin":false}
+29.10.2024, 9:52:24 - DEBUG - auth.service - signup with username: will it work?, fullname: maybe? fullname
+29.10.2024, 10:04:11 - INFO - Example app listening on port 3030
+29.10.2024, 10:04:25 - DEBUG - auth.service - signup with username: dssddsfdsfdsfd, fullname: this is test again
+29.10.2024, 10:04:35 - INFO - Example app listening on port 3030
+29.10.2024, 10:05:51 - INFO - Example app listening on port 3030
+29.10.2024, 10:06:01 - DEBUG - auth.service - signup with username: sdfdsdfsdfdsdf, fullname: sud off
+29.10.2024, 10:07:01 - INFO - Example app listening on port 3030
+29.10.2024, 10:07:18 - DEBUG - auth.service - signup with username: trust me im an engineer, fullname: teststststststts
+29.10.2024, 10:07:50 - INFO - Example app listening on port 3030
+29.10.2024, 10:08:00 - DEBUG - auth.service - signup with username: acount, fullname: acount
+29.10.2024, 10:12:22 - INFO - Example app listening on port 3030
+29.10.2024, 10:12:41 - INFO - Example app listening on port 3030
+29.10.2024, 10:16:14 - DEBUG - auth.service - signup with username: test my user again, fullname: asdasdd
+29.10.2024, 10:17:18 - INFO - Example app listening on port 3030
+29.10.2024, 10:17:30 - DEBUG - auth.service - signup with username: this is working!!, fullname: It's allive!!
+29.10.2024, 10:17:30 - DEBUG - user.route (controller) - new account:{"_id":"lgvno","username":"this is working!!","fullname":"It's allive!!","password":"$2b$10$wcHvH40ROXnemE.HWFdti.wANXbE4udseg20WN87JdqBtHhUOt.dC","score":10000,"img":"","createdAt":1730189850877,"isAdmin":false}
+29.10.2024, 10:20:39 - INFO - visited route /logout
+29.10.2024, 10:20:39 - DEBUG - user logged out
+29.10.2024, 10:21:26 - INFO - visited route /signup
+29.10.2024, 10:21:26 - DEBUG - easyToRemember
+29.10.2024, 10:21:26 - DEBUG - auth.service - signup with username: easyToRemember, fullname: password is easy
+29.10.2024, 10:21:27 - DEBUG - auth.route (controller) - new account:{"_id":"IFnyM","username":"easyToRemember","fullname":"password is easy","password":"$2b$10$aGvJ6IaYiRVahDlFh5ACrue3KMAVxX7FFH7gNSsUvnBNGC1KaZo/e","score":10000,"img":"","createdAt":1730190087052,"isAdmin":false}
+29.10.2024, 10:21:27 - INFO - User signup : | {"_id":"IFnyM","fullname":"password is easy","img":"","score":10000,"isAdmin":false}
+29.10.2024, 10:24:03 - DEBUG - auth.service - signup with username: the session stotage!!, fullname: look into the session storage
+29.10.2024, 10:24:03 - DEBUG - user.route (controller) - new account:{"_id":"OWA0W","username":"the session stotage!!","fullname":"look into the session storage","password":"$2b$10$wwnafwrB6ASrp9.dW0zK..d3A8coOzqZaYkKFA/xkYES8f7XOs7ym","score":10000,"img":"","createdAt":1730190243658,"isAdmin":false}
+29.10.2024, 10:26:16 - INFO - visited route /logout
+29.10.2024, 10:26:16 - DEBUG - user logged out
+29.10.2024, 10:26:38 - DEBUG - show me image
+29.10.2024, 10:26:38 - INFO - visited route /signup
+29.10.2024, 10:26:38 - DEBUG - auth.service - signup with username: show me image, fullname: image fix
+29.10.2024, 10:26:38 - INFO - User signup : | {"_id":"tvWcL","fullname":"image fix","img":"","score":10000,"isAdmin":false}
+29.10.2024, 10:26:38 - DEBUG - auth.route (controller) - new account:{"_id":"tvWcL","username":"show me image","fullname":"image fix","password":"$2b$10$tpXqDCN0Fj2lcI3ws0NJU.Puvt2dzzBFOYSbJcse/zJE6ddw/fglC","score":10000,"img":"","createdAt":1730190398932,"isAdmin":false}
+29.10.2024, 10:27:40 - INFO - visited route /logout
+29.10.2024, 10:27:40 - DEBUG - user logged out
+29.10.2024, 10:28:08 - DEBUG - password is easy!
+29.10.2024, 10:28:08 - INFO - visited route /signup
+29.10.2024, 10:28:08 - DEBUG - auth.service - signup with username: password is easy!, fullname: look inside your brain
+29.10.2024, 10:28:08 - INFO - User signup : | {"_id":"ib9CJ","fullname":"look inside your brain","img":"","score":10000,"isAdmin":false}
+29.10.2024, 10:28:08 - DEBUG - auth.route (controller) - new account:{"_id":"ib9CJ","username":"password is easy!","fullname":"look inside your brain","password":"$2b$10$0Xxc/P.QKgKbtm0q.87EeuxC5Aubaoq.89AMTMIB0.nfTVPwNniwy","score":10000,"img":"","createdAt":1730190488460,"isAdmin":false}
+29.10.2024, 10:28:52 - ERROR - Missing required signup info
+29.10.2024, 10:28:52 - INFO - Missing credentials, should have been spotted at frontend
+29.10.2024, 10:28:56 - INFO - visited route /logout
+29.10.2024, 10:28:56 - DEBUG - user logged out
+29.10.2024, 10:28:59 - INFO - visited route /signup
+29.10.2024, 10:28:59 - DEBUG - password is easy!
+29.10.2024, 10:28:59 - DEBUG - auth.service - signup with username: password is easy!, fullname: look inside your brain
+29.10.2024, 10:28:59 - INFO - User signup : | {"_id":"nWkTw","fullname":"look inside your brain","img":"","score":10000,"isAdmin":false}
+29.10.2024, 10:28:59 - DEBUG - auth.route (controller) - new account:{"_id":"nWkTw","username":"password is easy!","fullname":"look inside your brain","password":"$2b$10$luFoEdEwdOV7jSNdqhTIQuIHOzgOUMQrSEvFePvd8PCk9XUkmh4g2","score":10000,"img":"","createdAt":1730190539918,"isAdmin":false}
+29.10.2024, 10:30:22 - INFO - visited route /logout
+29.10.2024, 10:30:22 - DEBUG - user logged out
+29.10.2024, 10:30:27 - INFO - visited route /signup
+29.10.2024, 10:30:28 - DEBUG - password is easy!
+29.10.2024, 10:30:28 - DEBUG - auth.service - signup with username: password is easy!, fullname: look inside your brain2
+29.10.2024, 10:30:28 - DEBUG - auth.route (controller) - new account:{"_id":"u9PsL","username":"password is easy!","fullname":"look inside your brain2","password":"$2b$10$mPZnWcA8Xm7b9/e8X8N3R.zUpbmyhpCiyY7/n/k8oW/5MehkNeimm","score":10000,"img":"","createdAt":1730190628058,"isAdmin":false}
+29.10.2024, 10:30:28 - INFO - User signup : | {"_id":"u9PsL","fullname":"look inside your brain2","img":"","score":10000,"isAdmin":false}
+29.10.2024, 10:46:17 - INFO - Example app listening on port 3030
+29.10.2024, 10:46:56 - INFO - Example app listening on port 3030
+29.10.2024, 10:49:50 - INFO - Example app listening on port 3030
+29.10.2024, 10:50:03 - INFO - visited route /logout
+29.10.2024, 10:50:03 - DEBUG - user logged out
+29.10.2024, 10:50:09 - INFO - visited route /signup
+29.10.2024, 10:50:09 - DEBUG - password is easy!
+29.10.2024, 10:50:09 - DEBUG - auth.service - signup with username: password is easy!, fullname: look inside your brain3
+29.10.2024, 10:50:09 - DEBUG - auth.route (controller) - new account:{"_id":"g4K4u","username":"password is easy!","fullname":"look inside your brain3","password":"$2b$10$KPkk5KCcchlxpjwFccYDiuYWLsncFcLNtpd4iGMBvhURfVgi5xdea","score":10000,"img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","createdAt":1730191809384,"isAdmin":false}
+29.10.2024, 10:50:09 - INFO - User signup : | {"_id":"g4K4u","fullname":"look inside your brain3","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+29.10.2024, 10:55:47 - INFO - Example app listening on port 3030
+29.10.2024, 11:13:03 - INFO - Example app listening on port 3030
+29.10.2024, 11:35:06 - INFO - Example app listening on port 3030 
+29.10.2024, 11:37:44 - INFO - Example app listening on port 3030 
+29.10.2024, 11:37:52 - INFO - Example app listening on port 3030 
+29.10.2024, 11:43:17 - INFO - Example app listening on port 3030 
+29.10.2024, 11:44:05 - INFO - Example app listening on port 3030 
+29.10.2024, 11:44:27 - INFO - Example app listening on port 3030 
+29.10.2024, 15:06:04 - INFO - Example app listening on port 3030 
+29.10.2024, 15:13:46 - INFO - Example app listening on port 3030 
+29.10.2024, 15:15:49 - INFO - visited route /signup
+29.10.2024, 15:15:49 - DEBUG - auth.service - signup with username: avinoam, fullname: avinoam
+29.10.2024, 15:15:49 - DEBUG - avinoam
+29.10.2024, 15:15:49 - DEBUG - auth.route (controller) - new account:{"_id":"F2dG4","username":"avinoam","fullname":"avinoam","password":"$2b$10$HVsAmsS088X82MSSPJQGO.sW1I/cg3RkRV4MKYa27WvXVlICiNAD.","score":10000,"img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","createdAt":1730207749648,"isAdmin":false}
+29.10.2024, 15:15:49 - INFO - User signup : | {"_id":"F2dG4","fullname":"avinoam","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+29.10.2024, 15:19:49 - INFO - visited route /logout
+29.10.2024, 15:19:49 - DEBUG - user logged out
+29.10.2024, 15:19:57 - INFO - visited route /login
+29.10.2024, 15:19:57 - INFO - User login:  | {"_id":"F2dG4","fullname":"avinoam","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+29.10.2024, 15:23:29 - INFO - visited route /logout
+29.10.2024, 15:23:29 - DEBUG - user logged out
+29.10.2024, 15:26:46 - INFO - visited route /login
+29.10.2024, 15:26:46 - INFO - User login:  | {"_id":"F2dG4","fullname":"avinoam","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+29.10.2024, 15:45:17 - INFO - Example app listening on port 3030 
+1.11.2024, 9:52:55 - INFO - Example app listening on port 3030 
+1.11.2024, 10:26:24 - INFO - Example app listening on port 3030 
+1.11.2024, 10:27:06 - INFO - Example app listening on port 3030 
+1.11.2024, 10:58:47 - INFO - Example app listening on port 3030 
+1.11.2024, 11:44:06 - INFO - Example app listening on port 3030 
+1.11.2024, 13:30:02 - DEBUG - Invalid login token 
+1.11.2024, 13:39:04 - INFO - Example app listening on port 3030 
+1.11.2024, 13:39:06 - DEBUG - Invalid login token 
+1.11.2024, 13:39:06 - DEBUG - test
+1.11.2024, 13:39:14 - INFO - Example app listening on port 3030 
+1.11.2024, 13:40:17 - DEBUG - Invalid login token 
+1.11.2024, 13:41:23 - DEBUG - Invalid login token 
+1.11.2024, 13:43:14 - DEBUG - Invalid login token 
+1.11.2024, 13:43:25 - DEBUG - Invalid login token 
+1.11.2024, 13:44:00 - DEBUG - Invalid login token 
+1.11.2024, 13:46:12 - DEBUG - Invalid login token 
+1.11.2024, 13:46:59 - DEBUG - Invalid login token 
+1.11.2024, 13:49:08 - DEBUG - Invalid login token 
+1.11.2024, 13:50:11 - DEBUG - Invalid login token 
+1.11.2024, 13:50:19 - DEBUG - Invalid login token 
+1.11.2024, 13:50:22 - DEBUG - Invalid login token 
+1.11.2024, 13:51:12 - INFO - visited route /login
+1.11.2024, 13:51:12 - INFO - User login:  | {"_id":"F2dG4","fullname":"avinoam","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+1.11.2024, 14:39:28 - INFO - visited route /logout
+1.11.2024, 14:39:28 - DEBUG - user logged out
+1.11.2024, 14:39:31 - DEBUG - user logged out
+1.11.2024, 14:39:31 - INFO - visited route /logout
+1.11.2024, 14:39:36 - INFO - visited route /logout
+1.11.2024, 14:39:36 - DEBUG - user logged out
+1.11.2024, 14:40:08 - INFO - visited route /login
+1.11.2024, 14:40:08 - INFO - User login:  | {"_id":"F2dG4","fullname":"avinoam","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+1.11.2024, 14:52:38 - DEBUG - user logged out
+1.11.2024, 14:52:38 - INFO - visited route /logout
+1.11.2024, 14:52:47 - INFO - visited route /logout
+1.11.2024, 14:52:47 - DEBUG - user logged out
+1.11.2024, 14:53:54 - INFO - visited route /logout
+1.11.2024, 14:53:54 - DEBUG - user logged out
+1.11.2024, 14:54:20 - INFO - visited route /logout
+1.11.2024, 14:54:20 - DEBUG - user logged out
+1.11.2024, 14:54:59 - INFO - visited route /logout
+1.11.2024, 14:54:59 - DEBUG - user logged out
+1.11.2024, 14:56:18 - INFO - visited route /logout
+1.11.2024, 14:56:18 - DEBUG - user logged out
+1.11.2024, 14:57:02 - DEBUG - Invalid login token 
+1.11.2024, 14:58:22 - INFO - visited route /logout
+1.11.2024, 14:58:22 - DEBUG - user logged out
+1.11.2024, 15:05:34 - INFO - visited route /logout
+1.11.2024, 15:05:34 - DEBUG - user logged out
+1.11.2024, 15:09:14 - INFO - visited route /login
+1.11.2024, 15:09:14 - INFO - User login:  | {"_id":"F2dG4","fullname":"avinoam","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+1.11.2024, 15:09:17 - INFO - visited route /logout
+1.11.2024, 15:09:17 - DEBUG - user logged out
+1.11.2024, 15:09:19 - INFO - User login:  | {"_id":"F2dG4","fullname":"avinoam","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+1.11.2024, 15:09:19 - INFO - visited route /login
+1.11.2024, 15:11:58 - INFO - visited route /logout
+1.11.2024, 15:11:58 - DEBUG - user logged out
+1.11.2024, 15:12:37 - INFO - visited route /signup
+1.11.2024, 15:12:37 - DEBUG - avinoam2
+1.11.2024, 15:12:37 - DEBUG - auth.service - signup with username: avinoam2, fullname: avi xxm
+1.11.2024, 15:12:38 - DEBUG - auth.route (controller) - new account:{"_id":"rynA9","username":"avinoam2","fullname":"avi xxm","password":"$2b$10$BkSoekZAjg0EwJWrDmYcTeK7AB4cmgTZgak0/AHxLqgRVofCZH1ba","score":10000,"img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","createdAt":1730466758004,"isAdmin":false}
+1.11.2024, 15:12:38 - INFO - User signup : | {"_id":"rynA9","fullname":"avi xxm","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+1.11.2024, 15:13:25 - INFO - Example app listening on port 3030 
+2.11.2024, 9:01:48 - INFO - Example app listening on port 3030 
+2.11.2024, 9:27:23 - INFO - Example app listening on port 3030 
+2.11.2024, 9:29:30 - INFO - Example app listening on port 3030 
+2.11.2024, 9:30:48 - INFO - Example app listening on port 3030 
+2.11.2024, 9:32:23 - INFO - Example app listening on port 3030 
+2.11.2024, 9:39:00 - INFO - Example app listening on port 3030 
+2.11.2024, 9:39:25 - INFO - Example app listening on port 3030 
+2.11.2024, 9:40:44 - INFO - Example app listening on port 3030 
+2.11.2024, 9:40:56 - INFO - Example app listening on port 3030 
+2.11.2024, 9:41:26 - INFO - Example app listening on port 3030 
+2.11.2024, 9:42:24 - INFO - Example app listening on port 3030 
+2.11.2024, 9:42:43 - INFO - Example app listening on port 3030 
+2.11.2024, 9:42:47 - INFO - Example app listening on port 3030 
+2.11.2024, 9:43:18 - INFO - Example app listening on port 3030 
+2.11.2024, 9:43:30 - INFO - Example app listening on port 3030 
+2.11.2024, 9:45:21 - INFO - Example app listening on port 3030 
+2.11.2024, 9:46:24 - INFO - Example app listening on port 3030 
+2.11.2024, 9:47:50 - INFO - Example app listening on port 3030 
+2.11.2024, 9:48:39 - INFO - Example app listening on port 3030 
+2.11.2024, 9:48:54 - INFO - Example app listening on port 3030 
+2.11.2024, 9:49:01 - INFO - Example app listening on port 3030 
+2.11.2024, 9:49:18 - INFO - Example app listening on port 3030 
+2.11.2024, 9:50:14 - INFO - Example app listening on port 3030 
+2.11.2024, 9:50:21 - INFO - Example app listening on port 3030 
+2.11.2024, 9:50:46 - INFO - Example app listening on port 3030 
+2.11.2024, 9:52:15 - INFO - Example app listening on port 3030 
+2.11.2024, 10:01:57 - INFO - Example app listening on port 3030 
+2.11.2024, 10:03:47 - INFO - Example app listening on port 3030 
+2.11.2024, 10:04:12 - INFO - Example app listening on port 3030 
+2.11.2024, 10:05:18 - INFO - Example app listening on port 3030 
+2.11.2024, 10:08:14 - INFO - Example app listening on port 3030 
+2.11.2024, 10:08:53 - INFO - Example app listening on port 3030 
+2.11.2024, 10:09:24 - INFO - Example app listening on port 3030 
+2.11.2024, 10:09:41 - INFO - Example app listening on port 3030 
+2.11.2024, 10:10:34 - INFO - Example app listening on port 3030 
+2.11.2024, 10:10:54 - INFO - Example app listening on port 3030 
+2.11.2024, 10:11:23 - INFO - Example app listening on port 3030 
+2.11.2024, 10:12:00 - INFO - Example app listening on port 3030 
+2.11.2024, 10:12:17 - INFO - Example app listening on port 3030 
+2.11.2024, 10:12:34 - INFO - Example app listening on port 3030 
+2.11.2024, 10:13:17 - INFO - Example app listening on port 3030 
+2.11.2024, 10:13:34 - INFO - Example app listening on port 3030 
+2.11.2024, 10:14:01 - INFO - Example app listening on port 3030 
+2.11.2024, 10:15:02 - INFO - Example app listening on port 3030 
+2.11.2024, 10:15:20 - INFO - Example app listening on port 3030 
+2.11.2024, 10:16:38 - INFO - Example app listening on port 3030 
+2.11.2024, 10:18:51 - INFO - Example app listening on port 3030 
+2.11.2024, 10:19:32 - INFO - Example app listening on port 3030 
+2.11.2024, 10:20:28 - INFO - Example app listening on port 3030 
+2.11.2024, 10:20:59 - INFO - Example app listening on port 3030 
+2.11.2024, 10:24:11 - INFO - Example app listening on port 3030 
+2.11.2024, 10:24:44 - INFO - Example app listening on port 3030 
+2.11.2024, 10:25:31 - INFO - Example app listening on port 3030 
+2.11.2024, 10:26:00 - INFO - Example app listening on port 3030 
+2.11.2024, 10:27:47 - INFO - Example app listening on port 3030 
+2.11.2024, 10:28:39 - INFO - Example app listening on port 3030 
+2.11.2024, 10:30:09 - INFO - Example app listening on port 3030 
+2.11.2024, 10:30:16 - INFO - Example app listening on port 3030 
+2.11.2024, 10:31:11 - INFO - Example app listening on port 3030 
+2.11.2024, 10:32:28 - INFO - Example app listening on port 3030 
+2.11.2024, 10:34:18 - INFO - Example app listening on port 3030 
+2.11.2024, 10:35:05 - INFO - Example app listening on port 3030 
+2.11.2024, 10:36:17 - INFO - Example app listening on port 3030 
+2.11.2024, 10:39:11 - INFO - Example app listening on port 3030 
+2.11.2024, 10:39:46 - INFO - Example app listening on port 3030 
+2.11.2024, 10:41:11 - INFO - Example app listening on port 3030 
+2.11.2024, 10:44:39 - INFO - Example app listening on port 3030 
+2.11.2024, 10:45:30 - INFO - Example app listening on port 3030 
+2.11.2024, 10:52:14 - INFO - Example app listening on port 3030 
+2.11.2024, 10:53:15 - INFO - Example app listening on port 3030 
+2.11.2024, 10:53:54 - INFO - Example app listening on port 3030 
+2.11.2024, 10:54:43 - INFO - Example app listening on port 3030 
+2.11.2024, 10:57:29 - INFO - Example app listening on port 3030 
+2.11.2024, 10:58:19 - INFO - Example app listening on port 3030 
+2.11.2024, 10:58:41 - INFO - Example app listening on port 3030 
+2.11.2024, 10:58:49 - INFO - Example app listening on port 3030 
+2.11.2024, 10:58:52 - INFO - Example app listening on port 3030 
+2.11.2024, 10:59:19 - INFO - Example app listening on port 3030 
+2.11.2024, 11:02:54 - INFO - Example app listening on port 3030 
+3.11.2024, 13:50:10 - INFO - Example app listening on port 3030 
+4.11.2024, 10:38:33 - INFO - Example app listening on port 3030 
+4.11.2024, 10:53:37 - INFO - Example app listening on port 3030 
+4.11.2024, 10:54:13 - INFO - Example app listening on port 3030 
+4.11.2024, 10:59:36 - INFO - Example app listening on port 3030 
+4.11.2024, 11:03:29 - INFO - Example app listening on port 3030 
+4.11.2024, 11:03:36 - INFO - Example app listening on port 3030 
+4.11.2024, 11:04:56 - INFO - Example app listening on port 3030 
+4.11.2024, 11:12:13 - INFO - Example app listening on port 3030 
+4.11.2024, 11:16:21 - INFO - Example app listening on port 3030 
+4.11.2024, 11:17:12 - INFO - Example app listening on port 3030 
+4.11.2024, 11:17:21 - INFO - Example app listening on port 3030 
+4.11.2024, 11:22:24 - INFO - Example app listening on port 3030 
+4.11.2024, 11:26:28 - INFO - Example app listening on port 3030 
+4.11.2024, 11:26:35 - INFO - Example app listening on port 3030 
+4.11.2024, 11:27:00 - INFO - Example app listening on port 3030 
+4.11.2024, 14:13:05 - INFO - Example app listening on port 3030 
+4.11.2024, 14:20:43 - INFO - query for the following criteria | {}
+4.11.2024, 14:23:27 - INFO - query for the following criteria | {}
+4.11.2024, 14:23:31 - INFO - query for the following criteria | {}
+4.11.2024, 14:23:54 - INFO - query for the following criteria | {}
+4.11.2024, 14:23:54 - INFO - query for the following criteria | {}
+4.11.2024, 14:23:59 - INFO - query for the following criteria | {}
+4.11.2024, 14:23:59 - INFO - query for the following criteria | {}
+4.11.2024, 14:38:34 - INFO - Example app listening on port 3030 
+4.11.2024, 14:38:54 - INFO - query for the following criteria | {}
+4.11.2024, 14:38:54 - INFO - query for the following criteria | {}
+4.11.2024, 14:40:43 - INFO - Example app listening on port 3030 
+4.11.2024, 14:41:03 - INFO - query for the following criteria | {}
+4.11.2024, 14:41:03 - INFO - query for the following criteria | {}
+4.11.2024, 14:41:48 - INFO - Example app listening on port 3030 
+4.11.2024, 14:41:57 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:42:01 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:14 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:15 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:20 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:22 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:22 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:26 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:26 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:27 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:43:53 - INFO - Example app listening on port 3030 
+4.11.2024, 14:43:59 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 14:46:12 - INFO - Example app listening on port 3030 
+4.11.2024, 14:46:18 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 14:46:36 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 14:47:13 - INFO - Example app listening on port 3030 
+4.11.2024, 14:47:17 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 14:49:34 - INFO - Example app listening on port 3030 
+4.11.2024, 14:49:41 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 14:49:42 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 14:50:22 - INFO - Example app listening on port 3030 
+4.11.2024, 14:50:26 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 15:04:26 - INFO - Example app listening on port 3030 
+4.11.2024, 15:04:43 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 15:04:49 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 15:05:26 - INFO - Example app listening on port 3030 
+4.11.2024, 15:05:32 - INFO - query for the following criteria | {"$regex":{}}
+4.11.2024, 15:05:59 - INFO - Example app listening on port 3030 
+4.11.2024, 15:06:11 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:07:56 - INFO - Example app listening on port 3030 
+4.11.2024, 15:08:04 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:08:12 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:08:46 - INFO - Example app listening on port 3030 
+4.11.2024, 15:08:58 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:09:00 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:09:02 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:09:04 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:09:06 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:09:09 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:10:43 - INFO - Example app listening on port 3030 
+4.11.2024, 15:10:50 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:10:52 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:10:53 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:11:09 - INFO - Example app listening on port 3030 
+4.11.2024, 15:11:20 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:13:03 - INFO - Example app listening on port 3030 
+4.11.2024, 15:13:09 - INFO - query for the following criteria | {"title":{"$regex":{}}}
+4.11.2024, 15:19:44 - INFO - Example app listening on port 3030 
+4.11.2024, 15:19:54 - INFO - query for the following criteria | {"title":{"$regex":"/proble/i"}}
+4.11.2024, 15:19:58 - INFO - query for the following criteria | {"title":{"$regex":"/problem/i"}}
+4.11.2024, 15:20:01 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:20:05 - INFO - query for the following criteria | {"title":{"$regex":"/probl/i"}}
+4.11.2024, 15:20:45 - INFO - Example app listening on port 3030 
+4.11.2024, 15:20:53 - INFO - query for the following criteria | {"title":{"$regex":"/problem/i"}}
+4.11.2024, 15:20:57 - INFO - query for the following criteria | {"title":{"$regex":"/proble/i"}}
+4.11.2024, 15:20:57 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:23:24 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:23:49 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:23:50 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:24:01 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:26:30 - INFO - Example app listening on port 3030 
+4.11.2024, 15:26:37 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:26:37 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:26:45 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:27:15 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:27:15 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:27:58 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:28:09 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:31:03 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:31:04 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:31:15 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:33:44 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:33:44 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:33:49 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:33:51 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:33:52 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:33:56 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:34:31 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:34:32 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:34:39 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:35:41 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:35:41 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:35:43 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:35:44 - INFO - query for the following criteria | {"title":{"$regex":"/prob/i"}}
+4.11.2024, 15:35:46 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:35:54 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:36:32 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+4.11.2024, 15:36:58 - INFO - visited route /login
+4.11.2024, 15:36:58 - INFO - User login:  | {"_id":"F2dG4","fullname":"avinoam","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"isAdmin":false}
+4.11.2024, 15:37:01 - INFO - query for the following criteria | {}
+4.11.2024, 15:37:01 - INFO - query for the following criteria | {}
+4.11.2024, 15:37:16 - INFO - query for the following criteria | {}
+4.11.2024, 15:37:17 - INFO - query for the following criteria | {}
+4.11.2024, 15:38:41 - INFO - Example app listening on port 3030 
+4.11.2024, 15:39:10 - INFO - Example app listening on port 3030 
+4.11.2024, 15:40:07 - INFO - Example app listening on port 3030 
+4.11.2024, 15:40:28 - INFO - query for the following criteria | {}
+4.11.2024, 15:41:11 - INFO - query for the following criteria | {}
+4.11.2024, 15:44:02 - INFO - query for the following criteria | {}
+4.11.2024, 15:45:55 - INFO - Example app listening on port 3030 
+4.11.2024, 15:46:44 - INFO - Example app listening on port 3030 
+4.11.2024, 15:47:15 - INFO - Example app listening on port 3030 
+4.11.2024, 15:48:58 - INFO - query for the following criteria | {}
+4.11.2024, 15:55:19 - INFO - Example app listening on port 3030 
+4.11.2024, 15:56:12 - INFO - Example app listening on port 3030 
+4.11.2024, 15:56:30 - INFO - Example app listening on port 3030 
+4.11.2024, 16:29:33 - INFO - Example app listening on port 3030 
+4.11.2024, 16:29:52 - INFO - query for the following criteria | {}
+4.11.2024, 16:30:01 - INFO - query for the following criteria | {}
+4.11.2024, 16:31:38 - INFO - Example app listening on port 3030 
+4.11.2024, 16:32:24 - INFO - Example app listening on port 3030 
+4.11.2024, 16:33:14 - INFO - Example app listening on port 3030 
+4.11.2024, 16:33:37 - INFO - Example app listening on port 3030 
+4.11.2024, 16:33:41 - ERROR - Cannot get bug | ReferenceError: visitBug is not defined
+4.11.2024, 16:33:47 - INFO - query for the following criteria | {}
+4.11.2024, 16:33:47 - INFO - query for the following criteria | {}
+4.11.2024, 16:33:50 - ERROR - Cannot get bug | ReferenceError: visitBug is not defined
+4.11.2024, 16:33:58 - INFO - query for the following criteria | {}
+4.11.2024, 16:33:59 - INFO - query for the following criteria | {}
+4.11.2024, 16:35:08 - INFO - Example app listening on port 3030 
+4.11.2024, 16:36:22 - INFO - query for the following criteria | {}
+4.11.2024, 16:36:22 - INFO - query for the following criteria | {}
+4.11.2024, 16:36:29 - INFO - query for the following criteria | {}
+4.11.2024, 16:36:29 - INFO - query for the following criteria | {}
+4.11.2024, 16:36:33 - INFO - query for the following criteria | {}
+4.11.2024, 16:36:33 - INFO - query for the following criteria | {}
+4.11.2024, 16:36:39 - INFO - query for the following criteria | {}
+4.11.2024, 16:36:39 - INFO - query for the following criteria | {}
+4.11.2024, 19:34:54 - INFO - Example app listening on port 3030 
+4.11.2024, 21:07:00 - INFO - Example app listening on port 3030 
+4.11.2024, 21:11:20 - INFO - Example app listening on port 3030 
+4.11.2024, 21:11:27 - INFO - Example app listening on port 3030 
+4.11.2024, 21:13:10 - INFO - Example app listening on port 3030 
+4.11.2024, 21:14:46 - INFO - Example app listening on port 3030 
+4.11.2024, 21:20:43 - INFO - Example app listening on port 3030 
+4.11.2024, 21:21:04 - INFO - Example app listening on port 3030 
+4.11.2024, 21:25:56 - INFO - Example app listening on port 3030 
+4.11.2024, 21:29:03 - INFO - Example app listening on port 3030 
+4.11.2024, 21:30:37 - INFO - Example app listening on port 3030 
+4.11.2024, 21:32:53 - INFO - Example app listening on port 3030 
+4.11.2024, 21:35:05 - INFO - Example app listening on port 3030 
+4.11.2024, 21:36:43 - INFO - Example app listening on port 3030 
+4.11.2024, 21:38:15 - INFO - Example app listening on port 3030 
+4.11.2024, 21:39:43 - INFO - Example app listening on port 3030 
+4.11.2024, 23:01:52 - INFO - Example app listening on port 3030 
+4.11.2024, 23:04:08 - INFO - Example app listening on port 3030 
+4.11.2024, 23:04:29 - INFO - Example app listening on port 3030 
+4.11.2024, 23:05:13 - INFO - Example app listening on port 3030 
+4.11.2024, 23:05:30 - INFO - Example app listening on port 3030 
+4.11.2024, 23:12:57 - INFO - Example app listening on port 3030 
+4.11.2024, 23:13:53 - INFO - Example app listening on port 3030 
+4.11.2024, 23:17:10 - INFO - Example app listening on port 3030 
+4.11.2024, 23:17:17 - INFO - Example app listening on port 3030 
+4.11.2024, 23:19:29 - INFO - Example app listening on port 3030 
+4.11.2024, 23:23:42 - INFO - Example app listening on port 3030 
+4.11.2024, 23:27:49 - INFO - Example app listening on port 3030 
+4.11.2024, 23:27:55 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:27:56 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:28:47 - INFO - Example app listening on port 3030 
+4.11.2024, 23:28:53 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:28:53 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:29:18 - INFO - Example app listening on port 3030 
+4.11.2024, 23:29:31 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:29:31 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:30:48 - INFO - Example app listening on port 3030 
+4.11.2024, 23:30:54 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:30:54 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:31:12 - INFO - Example app listening on port 3030 
+4.11.2024, 23:31:18 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:31:18 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:31:53 - INFO - Example app listening on port 3030 
+4.11.2024, 23:32:02 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:32:03 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:34:09 - INFO - Example app listening on port 3030 
+4.11.2024, 23:34:21 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:34:22 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:36:21 - INFO - Example app listening on port 3030 
+4.11.2024, 23:36:33 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:36:33 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:36:45 - INFO - Example app listening on port 3030 
+4.11.2024, 23:36:54 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:36:54 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:37:40 - INFO - Example app listening on port 3030 
+4.11.2024, 23:37:45 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:37:45 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:37:51 - INFO - Example app listening on port 3030 
+4.11.2024, 23:37:56 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:37:56 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:39:10 - INFO - Example app listening on port 3030 
+4.11.2024, 23:39:30 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:39:31 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:40:22 - INFO - Example app listening on port 3030 
+4.11.2024, 23:40:28 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:40:28 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:40:54 - INFO - Example app listening on port 3030 
+4.11.2024, 23:41:09 - INFO - Example app listening on port 3030 
+4.11.2024, 23:41:13 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:41:13 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:41:29 - INFO - Example app listening on port 3030 
+4.11.2024, 23:41:35 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:41:35 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:41:54 - INFO - Example app listening on port 3030 
+4.11.2024, 23:41:58 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:41:59 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+4.11.2024, 23:42:18 - INFO - query for the following criteria | {"title":{"$regex":"p","$options":"i"}}
+4.11.2024, 23:42:20 - INFO - query for the following criteria | {"title":{"$regex":"pr","$options":"i"}}
+4.11.2024, 23:42:21 - INFO - query for the following criteria | {"title":{"$regex":"pro","$options":"i"}}
+4.11.2024, 23:42:23 - INFO - query for the following criteria | {"title":{"$regex":"prob","$options":"i"}}
+4.11.2024, 23:42:24 - INFO - query for the following criteria | {"title":{"$regex":"probs","$options":"i"}}
+4.11.2024, 23:42:27 - INFO - query for the following criteria | {"title":{"$regex":"prob","$options":"i"}}
+4.11.2024, 23:42:30 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 0:39:35 - INFO - Example app listening on port 3030 
+5.11.2024, 0:43:45 - INFO - Example app listening on port 3030 
+5.11.2024, 8:52:19 - INFO - Example app listening on port 3030 
+5.11.2024, 8:54:40 - INFO - Example app listening on port 3030 
+5.11.2024, 9:01:45 - INFO - Example app listening on port 3030 
+5.11.2024, 9:04:11 - INFO - Example app listening on port 3030 
+5.11.2024, 9:07:52 - INFO - Example app listening on port 3030 
+5.11.2024, 9:08:57 - INFO - Example app listening on port 3030 
+5.11.2024, 9:09:22 - INFO - Example app listening on port 3030 
+5.11.2024, 9:09:31 - INFO - Example app listening on port 3030 
+5.11.2024, 9:10:09 - INFO - Example app listening on port 3030 
+5.11.2024, 9:11:13 - INFO - Example app listening on port 3030 
+5.11.2024, 9:13:17 - INFO - Example app listening on port 3030 
+5.11.2024, 9:13:26 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 9:13:26 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 9:13:37 - INFO - Example app listening on port 3030 
+5.11.2024, 9:13:59 - INFO - Example app listening on port 3030 
+5.11.2024, 9:14:18 - INFO - Example app listening on port 3030 
+5.11.2024, 9:15:08 - INFO - Example app listening on port 3030 
+5.11.2024, 9:15:52 - INFO - Example app listening on port 3030 
+5.11.2024, 9:26:17 - DEBUG - auth.service - signup with username: this will change history!, fullname: avi avi
+5.11.2024, 9:26:17 - ERROR - Could not sign up | Username already taken
+5.11.2024, 9:26:17 - ERROR - could not add user | Error: Could not sign up
+5.11.2024, 9:27:24 - DEBUG - auth.service - signup with username: this is best!, fullname: aviavi aviavi
+5.11.2024, 9:27:25 - ERROR - Could not sign up | Username already taken
+5.11.2024, 9:27:25 - ERROR - could not add user | Error: Could not sign up
+5.11.2024, 9:30:57 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 9:30:57 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 9:33:51 - INFO - Example app listening on port 3030 
+5.11.2024, 9:34:17 - INFO - Example app listening on port 3030 
+5.11.2024, 9:34:23 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 9:34:23 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 20:54:56 - INFO - Example app listening on port 3030 
+5.11.2024, 21:01:25 - DEBUG - auth.service - signup with username: this is test, fullname: avinoam the king
+5.11.2024, 21:01:25 - ERROR - Could not sign up | Username already taken
+5.11.2024, 21:01:25 - ERROR - could not add user | Error: Could not sign up
+5.11.2024, 21:02:21 - INFO - Example app listening on port 3030 
+5.11.2024, 21:02:32 - DEBUG - auth.service - signup with username: ldksjfjdsl, fullname: asdasd
+5.11.2024, 21:02:32 - ERROR - Could not sign up | Username already taken
+5.11.2024, 21:02:32 - ERROR - could not add user | Error: Could not sign up
+5.11.2024, 21:05:14 - INFO - Example app listening on port 3030 
+5.11.2024, 21:05:26 - DEBUG - auth.service - signup with username: sdfdsf, fullname: sadasdasd
+5.11.2024, 21:05:26 - ERROR - Could not sign up | TypeError: userService.save is not a function
+5.11.2024, 21:05:26 - ERROR - could not add user | Error: Could not sign up
+5.11.2024, 21:09:35 - INFO - Example app listening on port 3030 
+5.11.2024, 21:09:50 - DEBUG - auth.service - signup with username: this is test, fullname: my name is
+5.11.2024, 21:09:50 - DEBUG - user.route (controller) - new account:{"username":"this is test","password":"$2b$10$iUAvp2hqmAHeKooMUY2/Vedlzyu/BVMxW1CmfBT7bh1vWFAgfyr.q","fullname":"my name is","_id":"672a6d7ebf3cdfb27ce5d14d"}
+5.11.2024, 21:59:41 - DEBUG - user logged out
+5.11.2024, 21:59:41 - INFO - visited route /logout
+5.11.2024, 22:00:05 - INFO - visited route /signup
+5.11.2024, 22:00:05 - DEBUG - avvvvvvvvvvv
+5.11.2024, 22:00:05 - DEBUG - auth.service - signup with username: avvvvvvvvvvv, fullname: avvvvv xxxxvvvvvbbbbnnnnn
+5.11.2024, 22:00:05 - DEBUG - auth.route (controller) - new account:{"username":"avvvvvvvvvvv","password":"$2b$10$nIz5SqSNoYMQvXf3xZhgGe/mhykrAh7IvHY/HBkqlonKf7HVn5rLa","fullname":"avvvvv xxxxvvvvvbbbbnnnnn","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"_id":"672a7945bf3cdfb27ce5d14e"}
+5.11.2024, 22:00:05 - INFO - User signup : | {"_id":"672a7945bf3cdfb27ce5d14e","fullname":"avvvvv xxxxvvvvvbbbbnnnnn","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000}
+5.11.2024, 22:00:12 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:00:12 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:00:15 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:00:15 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:01:09 - INFO - visited route /logout
+5.11.2024, 22:01:09 - DEBUG - user logged out
+5.11.2024, 22:01:16 - INFO - visited route /login
+5.11.2024, 22:01:16 - INFO - User login:  | null
+5.11.2024, 22:01:18 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:01:18 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:01:22 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:01:23 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:01:25 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:01:26 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:03:09 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:03:10 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:03:14 - ERROR - could not find bug : 6727c13a6e190c883ba181c3 | TypeError: bug._id.getTimeStamp is not a function
+5.11.2024, 22:03:14 - ERROR - Cannot get bug | Error: could not find bug
+5.11.2024, 22:04:18 - INFO - Example app listening on port 3030 
+5.11.2024, 22:04:22 - ERROR - could not find bug : 6727c13a6e190c883ba181c3 | TypeError: bug._id.getTimeStamp is not a function
+5.11.2024, 22:04:22 - ERROR - Cannot get bug | Error: could not find bug
+5.11.2024, 22:06:27 - INFO - Example app listening on port 3030 
+5.11.2024, 22:06:33 - ERROR - could not find bug : 6727c13a6e190c883ba181c3 | TypeError: ObjectId.getTimeStamp is not a function
+5.11.2024, 22:06:33 - ERROR - Cannot get bug | Error: could not find bug
+5.11.2024, 22:07:54 - INFO - Example app listening on port 3030 
+5.11.2024, 22:08:00 - ERROR - could not find bug : 6727c13a6e190c883ba181c3 | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+5.11.2024, 22:08:00 - ERROR - Cannot get bug | Error: could not find bug
+5.11.2024, 22:14:51 - INFO - Example app listening on port 3030 
+5.11.2024, 22:15:06 - ERROR - could not find bug : 6727c13a6e190c883ba181c3 | TypeError: bug._id.getTimeStamp is not a function
+5.11.2024, 22:15:06 - ERROR - Cannot get bug | Error: could not find bug
+5.11.2024, 22:15:35 - INFO - Example app listening on port 3030 
+5.11.2024, 22:16:19 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:16:20 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:17:21 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:17:22 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:18:16 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:18:17 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:19:22 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:19:22 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:19:25 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:19:26 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:19:39 - INFO - visited route /login
+5.11.2024, 22:19:39 - INFO - User login:  | null
+5.11.2024, 22:19:44 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:19:45 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:19:47 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:19:47 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:20:24 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:20:25 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:21:23 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:21:46 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:21:46 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:21:55 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:21:56 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:25:40 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:25:41 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:26:46 - INFO - visited route /login
+5.11.2024, 22:26:46 - INFO - User login:  | null
+5.11.2024, 22:28:45 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:28:45 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:28:51 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:28:51 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:32:56 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:32:56 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:33:10 - INFO - visited route /login
+5.11.2024, 22:33:10 - INFO - User login:  | null
+5.11.2024, 22:33:12 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:33:13 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:39:14 - INFO - Example app listening on port 3030 
+5.11.2024, 22:41:26 - INFO - Example app listening on port 3030 
+5.11.2024, 22:41:55 - INFO - Example app listening on port 3030 
+5.11.2024, 22:42:27 - INFO - Example app listening on port 3030 
+5.11.2024, 22:43:05 - INFO - Example app listening on port 3030 
+5.11.2024, 22:44:31 - INFO - visited route /logout
+5.11.2024, 22:44:31 - DEBUG - user logged out
+5.11.2024, 22:45:00 - INFO - visited route /login
+5.11.2024, 22:45:00 - INFO - User login:  | null
+5.11.2024, 22:45:16 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:45:16 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:47:24 - INFO - Example app listening on port 3030 
+5.11.2024, 22:48:45 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:48:46 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:49:01 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+5.11.2024, 22:49:01 - INFO - query for the following criteria | {"title":{"$regex":"","$options":"i"}}
+6.11.2024, 9:43:51 - INFO - Example app listening on port 3030 
+6.11.2024, 9:44:05 - INFO - Example app listening on port 3030 
+6.11.2024, 9:44:17 - INFO - Example app listening on port 3030 
+6.11.2024, 10:01:09 - INFO - Example app listening on port 3030 
+6.11.2024, 10:01:20 - INFO - Example app listening on port 3030 
+6.11.2024, 10:01:27 - INFO - Example app listening on port 3030 
+6.11.2024, 10:02:05 - INFO - Example app listening on port 3030 
+6.11.2024, 10:04:12 - INFO - Example app listening on port 3030 
+6.11.2024, 10:04:13 - INFO - Example app listening on port 3030 
+6.11.2024, 10:04:14 - INFO - Example app listening on port 3030 
+6.11.2024, 10:06:15 - INFO - Example app listening on port 3030 
+6.11.2024, 10:06:55 - INFO - Example app listening on port 3030 
+6.11.2024, 10:08:47 - INFO - Example app listening on port 3030 
+6.11.2024, 10:09:56 - INFO - Example app listening on port 3030 
+6.11.2024, 10:10:21 - INFO - Example app listening on port 3030 
+6.11.2024, 10:13:39 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:13:56 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:14:52 - INFO - Example app listening on port 3030 
+6.11.2024, 10:15:01 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:15:17 - INFO - Example app listening on port 3030 
+6.11.2024, 10:15:22 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:15:22 - ERROR - Cannot get bugs | MongoServerError: $regex has to be a string
+6.11.2024, 10:16:08 - INFO - Example app listening on port 3030 
+6.11.2024, 10:16:12 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:16:12 - ERROR - Cannot get bugs | MongoServerError: $regex has to be a string
+6.11.2024, 10:17:34 - INFO - Example app listening on port 3030 
+6.11.2024, 10:17:46 - INFO - Example app listening on port 3030 
+6.11.2024, 10:17:50 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:17:50 - ERROR - Cannot get bugs | MongoServerError: $regex has to be a string
+6.11.2024, 10:18:20 - INFO - Example app listening on port 3030 
+6.11.2024, 10:18:25 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:18:25 - ERROR - Cannot get bugs | MongoServerError: $regex has to be a string
+6.11.2024, 10:19:27 - INFO - Example app listening on port 3030 
+6.11.2024, 10:19:31 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:19:31 - ERROR - Cannot get bugs | MongoServerError: $regex has to be a string
+6.11.2024, 10:19:40 - INFO - Example app listening on port 3030 
+6.11.2024, 10:23:00 - INFO - Example app listening on port 3030 
+6.11.2024, 10:23:03 - INFO - query for the following criteria | {"title":{"$options":"i"}}
+6.11.2024, 10:23:03 - ERROR - Cannot get bugs | MongoServerError: $regex has to be a string
+6.11.2024, 10:24:51 - INFO - Example app listening on port 3030 
+6.11.2024, 10:24:53 - INFO - query for the following criteria | {}
+6.11.2024, 10:40:20 - INFO - Example app listening on port 3030 
+6.11.2024, 10:40:38 - INFO - query for the following criteria | {}
+6.11.2024, 10:41:06 - INFO - Example app listening on port 3030 
+6.11.2024, 10:42:09 - INFO - Example app listening on port 3030 
+6.11.2024, 10:42:19 - INFO - query for the following criteria | {}
+6.11.2024, 10:43:09 - INFO - Example app listening on port 3030 
+6.11.2024, 10:44:27 - INFO - Example app listening on port 3030 
+6.11.2024, 10:44:38 - INFO - Example app listening on port 3030 
+6.11.2024, 10:45:12 - INFO - Example app listening on port 3030 
+6.11.2024, 10:45:36 - INFO - Example app listening on port 3030 
+6.11.2024, 10:46:07 - INFO - Example app listening on port 3030 
+6.11.2024, 10:56:15 - INFO - Example app listening on port 3030 
+6.11.2024, 10:56:23 - DEBUG - Invalid login token  | Error: value must not be null or undefined
+6.11.2024, 10:56:49 - INFO - Example app listening on port 3030 
+6.11.2024, 10:58:09 - INFO - Example app listening on port 3030 
+6.11.2024, 11:14:21 - INFO - Example app listening on port 3030 
+6.11.2024, 11:14:35 - INFO - Example app listening on port 3030 
+6.11.2024, 11:19:49 - INFO - Example app listening on port 3030 
+6.11.2024, 11:21:32 - INFO - Example app listening on port 3030 
+6.11.2024, 11:21:53 - INFO - Example app listening on port 3030 
+6.11.2024, 11:21:56 - ERROR - Cannot get msg | ReferenceError: loggerService is not defined
+6.11.2024, 11:23:22 - INFO - Example app listening on port 3030 
+6.11.2024, 11:23:27 - ERROR - Cannot get msg | ReferenceError: loggerService is not defined
+6.11.2024, 11:24:08 - INFO - Example app listening on port 3030 
+6.11.2024, 11:26:00 - INFO - Example app listening on port 3030 
+6.11.2024, 11:26:07 - ERROR - could not find msg : 672b2fa9bcbf9d30e246037c | ReferenceError: ObjectId is not defined
+6.11.2024, 11:26:07 - ERROR - Cannot get msg | Error: could not find msg
+6.11.2024, 11:27:15 - INFO - Example app listening on port 3030 
+6.11.2024, 11:28:07 - ERROR - could not find msg : 672b2fa9bcbf9d30e246037c | Error: could not find msg
+6.11.2024, 11:28:07 - ERROR - Cannot get msg | Error: could not find msg
+6.11.2024, 11:28:38 - INFO - Example app listening on port 3030 
+6.11.2024, 11:28:46 - ERROR - could not find msg : 672b2fa9bcbf9d30e246037c | Error: could not find msg
+6.11.2024, 11:28:46 - ERROR - Cannot get msg | Error: could not find msg
+6.11.2024, 11:29:13 - INFO - Example app listening on port 3030 
+6.11.2024, 11:29:19 - ERROR - could not find msg : 672b2fa9bcbf9d30e246037c | Error: could not find msg
+6.11.2024, 11:29:19 - ERROR - Cannot get msg | Error: could not find msg
+6.11.2024, 11:30:13 - INFO - Example app listening on port 3030 
+6.11.2024, 11:30:17 - ERROR - could not find msg : 672b2fa9bcbf9d30e246037c | ReferenceError: ObjectId is not defined
+6.11.2024, 11:30:17 - ERROR - Cannot get msg | Error: could not find msg
+6.11.2024, 11:30:42 - INFO - Example app listening on port 3030 
+6.11.2024, 11:31:06 - INFO - Example app listening on port 3030 
+6.11.2024, 12:01:18 - INFO - Example app listening on port 3030 
+6.11.2024, 12:01:26 - INFO - Example app listening on port 3030 
+6.11.2024, 12:02:09 - INFO - Example app listening on port 3030 
+6.11.2024, 12:04:38 - INFO - Example app listening on port 3030 
+6.11.2024, 12:07:00 - INFO - Example app listening on port 3030 
+6.11.2024, 12:07:20 - INFO - Example app listening on port 3030 
+6.11.2024, 12:07:50 - INFO - Example app listening on port 3030 
+6.11.2024, 12:07:57 - ERROR - could not save msg: undefined | BSONError: hex string must be 24 characters
+6.11.2024, 12:08:36 - ERROR - could not save msg: undefined | BSONError: hex string must be 24 characters
+6.11.2024, 12:09:18 - INFO - Example app listening on port 3030 
+6.11.2024, 12:09:24 - ERROR - could not save msg: undefined | BSONError: hex string must be 24 characters
+6.11.2024, 12:10:10 - INFO - Example app listening on port 3030 
+6.11.2024, 12:10:20 - INFO - Example app listening on port 3030 
+6.11.2024, 12:10:25 - ERROR - could not save msg: undefined | BSONError: hex string must be 24 characters
+6.11.2024, 12:11:20 - INFO - Example app listening on port 3030 
+6.11.2024, 12:11:25 - INFO - Example app listening on port 3030 
+6.11.2024, 12:11:28 - ERROR - could not update msg: undefined | BSONError: hex string must be 24 characters
+6.11.2024, 12:11:52 - INFO - Example app listening on port 3030 
+6.11.2024, 12:12:30 - INFO - Example app listening on port 3030 
+6.11.2024, 12:12:33 - INFO - Example app listening on port 3030 
+6.11.2024, 12:55:35 - INFO - query for the following criteria | {}
+6.11.2024, 12:55:35 - INFO - query for the following criteria | {}
+6.11.2024, 13:01:27 - INFO - Missing credentials, should have been spotted at frontend
+6.11.2024, 13:01:27 - ERROR - Could not sign up | Missing required signup info
+6.11.2024, 13:01:27 - ERROR - could not add user | Error: Could not sign up
+6.11.2024, 13:03:18 - INFO - query for the following criteria | {}
+6.11.2024, 13:03:18 - INFO - query for the following criteria | {}
+6.11.2024, 13:28:30 - INFO - Example app listening on port 3030
+6.11.2024, 13:28:58 - INFO - query for the following criteria | {}
+6.11.2024, 13:28:58 - INFO - query for the following criteria | {}
+6.11.2024, 13:29:01 - INFO - query for the following criteria | {}
+6.11.2024, 13:29:01 - INFO - query for the following criteria | {}
+6.11.2024, 13:29:10 - INFO - query for the following criteria | {}
+6.11.2024, 13:29:11 - INFO - query for the following criteria | {}
+6.11.2024, 13:56:24 - INFO - Example app listening on port 3030
+6.11.2024, 13:56:56 - INFO - Example app listening on port 3030
+6.11.2024, 13:58:11 - INFO - Example app listening on port 3030
+6.11.2024, 14:10:13 - INFO - Example app listening on port 3030
+6.11.2024, 14:11:12 - INFO - Example app listening on port 3030
+6.11.2024, 14:13:02 - INFO - Example app listening on port 3030
+6.11.2024, 14:17:16 - INFO - Example app listening on port 3030
+6.11.2024, 14:28:45 - INFO - Example app listening on port 3030
+6.11.2024, 14:28:49 - ERROR - Cannot get msgs | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+6.11.2024, 14:29:05 - INFO - Example app listening on port 3030
+6.11.2024, 14:29:08 - ERROR - Cannot get msgs | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+6.11.2024, 14:29:18 - INFO - Example app listening on port 3030
+6.11.2024, 14:29:21 - ERROR - Cannot get msgs | TypeError: ObjectId.createFromHexString is not a constructor
+6.11.2024, 14:29:30 - INFO - Example app listening on port 3030
+6.11.2024, 14:29:34 - ERROR - Cannot get msgs | BSONError: hex string must be 24 characters
+6.11.2024, 14:30:12 - INFO - Example app listening on port 3030
+6.11.2024, 14:30:20 - ERROR - Cannot get msgs | BSONError: hex string must be 24 characters
+6.11.2024, 14:30:33 - INFO - Example app listening on port 3030
+6.11.2024, 14:31:25 - INFO - Example app listening on port 3030
+6.11.2024, 14:31:29 - ERROR - Cannot get msgs | BSONError: hex string must be 24 characters
+6.11.2024, 14:31:45 - INFO - Example app listening on port 3030
+6.11.2024, 14:31:48 - ERROR - Cannot get msgs | TypeError: Class constructor ObjectId cannot be invoked without 'new'
+6.11.2024, 14:31:54 - INFO - Example app listening on port 3030
+6.11.2024, 14:35:28 - INFO - Example app listening on port 3030
+6.11.2024, 14:35:48 - INFO - Example app listening on port 3030
+6.11.2024, 21:04:38 - INFO - Example app listening on port 3030
+6.11.2024, 21:06:06 - INFO - query for the following criteria | {}
+6.11.2024, 21:06:06 - INFO - query for the following criteria | {}
+6.11.2024, 21:08:59 - INFO - query for the following criteria | {}
+6.11.2024, 21:09:00 - INFO - query for the following criteria | {}
+6.11.2024, 21:10:07 - INFO - Example app listening on port 3030
+6.11.2024, 21:14:27 - INFO - Example app listening on port 3030
+6.11.2024, 21:16:17 - INFO - Example app listening on port 3030
+6.11.2024, 21:17:57 - INFO - Example app listening on port 3030
+6.11.2024, 21:18:20 - INFO - Example app listening on port 3030
+6.11.2024, 21:19:00 - INFO - query for the following criteria | {}
+6.11.2024, 21:19:00 - INFO - query for the following criteria | {}
+6.11.2024, 21:19:31 - INFO - visited route /login
+6.11.2024, 21:19:31 - INFO - User login:  | null
+6.11.2024, 21:19:33 - INFO - query for the following criteria | {}
+6.11.2024, 21:19:33 - INFO - query for the following criteria | {}
+6.11.2024, 21:21:47 - INFO - Example app listening on port 3030
+6.11.2024, 21:22:55 - INFO - Example app listening on port 3030
+6.11.2024, 21:23:32 - INFO - Example app listening on port 3030
+6.11.2024, 21:26:01 - INFO - Example app listening on port 3030
+6.11.2024, 21:26:09 - INFO - visited route /logout
+6.11.2024, 21:26:09 - DEBUG - user logged out
+6.11.2024, 21:26:18 - INFO - visited route /login
+6.11.2024, 21:26:18 - ERROR - Could not log in | ReferenceError: logger is not defined
+6.11.2024, 21:26:18 - ERROR -  Failed to Login  | Error: Could not log in
+6.11.2024, 21:26:43 - INFO - Example app listening on port 3030
+6.11.2024, 21:26:47 - INFO - visited route /login
+6.11.2024, 21:26:47 - DEBUG - auth.service - login with username: avinoam
+6.11.2024, 21:32:46 - INFO - Example app listening on port 3030
+6.11.2024, 21:32:51 - INFO - Example app listening on port 3030
+6.11.2024, 21:33:00 - INFO - visited route /login
+6.11.2024, 21:33:00 - DEBUG - auth.service - login with username: avinoam
+6.11.2024, 21:37:00 - INFO - Example app listening on port 3030
+6.11.2024, 21:37:03 - INFO - visited route /login
+6.11.2024, 21:37:03 - DEBUG - auth.service - login with username: avinoam
+6.11.2024, 21:37:03 - ERROR -  Failed to Login  | Invalid username or password
+6.11.2024, 21:38:10 - INFO - visited route /signup
+6.11.2024, 21:38:10 - DEBUG - avinoam
+6.11.2024, 21:38:10 - DEBUG - auth.service - signup with username: avinoam, fullname: avinoam avi
+6.11.2024, 21:38:10 - DEBUG - auth.route (controller) - new account:{"username":"avinoam","password":"$2b$10$mt6bE5xkDaCPjCj.rkBKbuX5G9cqIg5PqyqeegXfqwmYB8.lX5h8y","fullname":"avinoam avi","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000,"_id":"672bc5a258afa2469835344d"}
+6.11.2024, 21:38:10 - DEBUG - auth.service - login with username: avinoam
+6.11.2024, 21:38:10 - INFO - User signup : | {"_id":"672bc5a258afa2469835344d","fullname":"avinoam avi","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000}
+6.11.2024, 21:38:14 - INFO - visited route /logout
+6.11.2024, 21:38:14 - DEBUG - user logged out
+6.11.2024, 21:38:18 - INFO - visited route /login
+6.11.2024, 21:38:18 - DEBUG - auth.service - login with username: avinoam
+6.11.2024, 21:38:18 - INFO - User login:  | {"_id":"672bc5a258afa2469835344d","fullname":"avinoam avi","img":"https://static8.depositphotos.com/1007989/894/i/450/depositphotos_8943042-stock-photo-okay-smiley.jpg","score":10000}
+6.11.2024, 21:38:26 - INFO - query for the following criteria | {}
+6.11.2024, 21:38:26 - INFO - query for the following criteria | {}
+6.11.2024, 21:38:42 - ERROR - Cannot add bug | ReferenceError: bugToSave is not defined
+6.11.2024, 21:39:59 - INFO - Example app listening on port 3030
+6.11.2024, 21:40:48 - INFO - Example app listening on port 3030
+6.11.2024, 21:42:19 - INFO - Example app listening on port 3030
+6.11.2024, 21:56:21 - INFO - query for the following criteria | {}
+6.11.2024, 21:57:03 - INFO - query for the following criteria | {}
+6.11.2024, 21:57:04 - INFO - query for the following criteria | {}
+6.11.2024, 21:59:31 - INFO - Example app listening on port 3030
+6.11.2024, 22:02:27 - INFO - Example app listening on port 3030
+6.11.2024, 22:08:13 - INFO - Example app listening on port 3030
+6.11.2024, 22:08:21 - ERROR - Cannot get msgs | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+6.11.2024, 22:08:52 - INFO - Example app listening on port 3030
+6.11.2024, 22:08:58 - ERROR - Cannot get msgs | BSONError: hex string must be 24 characters
+6.11.2024, 22:09:31 - INFO - Example app listening on port 3030
+6.11.2024, 22:10:22 - INFO - Example app listening on port 3030
+6.11.2024, 22:10:28 - ERROR - Cannot get msgs | BSONError: input must be a 24 character hex string, 12 byte Uint8Array, or an integer
+6.11.2024, 22:10:35 - INFO - Example app listening on port 3030
+6.11.2024, 22:17:33 - INFO - Example app listening on port 3030
+6.11.2024, 22:25:22 - INFO - Example app listening on port 3030
+6.11.2024, 22:25:27 - ERROR - Cannot get msgs | MongoServerError: path option to $unwind stage should be prefixed with a '$': aboutBug
+6.11.2024, 22:26:14 - INFO - Example app listening on port 3030
+6.11.2024, 22:29:27 - INFO - Example app listening on port 3030
+6.11.2024, 22:29:37 - INFO - Example app listening on port 3030
+6.11.2024, 22:34:19 - INFO - query for the following criteria | {}
+6.11.2024, 22:34:20 - INFO - query for the following criteria | {}
+6.11.2024, 22:34:21 - INFO - query for the following criteria | {}
+6.11.2024, 23:18:28 - INFO - Example app listening on port 3030
+6.11.2024, 23:21:25 - INFO - Example app listening on port 3030
+6.11.2024, 23:29:01 - INFO - query for the following criteria | {}
+6.11.2024, 23:29:01 - INFO - query for the following criteria | {}
+6.11.2024, 23:29:03 - ERROR - could not find bug : 6727c13a6e190c883ba181c3 | ReferenceError: aboutBug is not defined
+6.11.2024, 23:29:03 - ERROR - Cannot get bug | Error: could not find bug
+6.11.2024, 23:30:08 - INFO - Example app listening on port 3030
+6.11.2024, 23:30:12 - ERROR - could not find bug : 6727c13a6e190c883ba181c3 | ReferenceError: aboutBug is not defined
+6.11.2024, 23:30:12 - ERROR - Cannot get bug | Error: could not find bug
+6.11.2024, 23:30:40 - INFO - Example app listening on port 3030
+6.11.2024, 23:30:52 - INFO - Example app listening on port 3030
+6.11.2024, 23:31:39 - INFO - Example app listening on port 3030
+6.11.2024, 23:36:23 - INFO - Example app listening on port 3030
+6.11.2024, 23:36:40 - INFO - Example app listening on port 3030
+6.11.2024, 23:38:26 - INFO - Example app listening on port 3030
+6.11.2024, 23:43:23 - INFO - query for the following criteria | {}
+6.11.2024, 23:43:23 - INFO - query for the following criteria | {}
+6.11.2024, 23:45:30 - INFO - Example app listening on port 3030
+6.11.2024, 23:45:44 - INFO - Example app listening on port 3030
+6.11.2024, 23:46:03 - INFO - Example app listening on port 3030
+6.11.2024, 23:46:55 - INFO - Example app listening on port 3030
+6.11.2024, 23:47:24 - INFO - Example app listening on port 3030
+6.11.2024, 23:47:38 - INFO - Example app listening on port 3030
+6.11.2024, 23:49:46 - INFO - Example app listening on port 3030
+7.11.2024, 0:09:26 - INFO - Example app listening on port 3030
+7.11.2024, 0:10:03 - INFO - Example app listening on port 3030
+7.11.2024, 0:10:54 - INFO - Example app listening on port 3030
+7.11.2024, 0:12:17 - INFO - Example app listening on port 3030
+7.11.2024, 0:12:44 - INFO - Example app listening on port 3030
+7.11.2024, 0:13:02 - INFO - Example app listening on port 3030
+7.11.2024, 0:13:45 - INFO - Example app listening on port 3030
+7.11.2024, 0:13:59 - INFO - Example app listening on port 3030
+7.11.2024, 0:20:22 - INFO - Example app listening on port 3030
+7.11.2024, 0:30:24 - INFO - Example app listening on port 3030
+7.11.2024, 0:32:51 - INFO - query for the following criteria | {}
+7.11.2024, 0:33:07 - INFO - query for the following criteria | {}
+7.11.2024, 0:33:41 - INFO - query for the following criteria | {}
+7.11.2024, 0:33:41 - INFO - query for the following criteria | {}
+7.11.2024, 0:34:23 - INFO - query for the following criteria | {}
+7.11.2024, 0:34:24 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:42 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:43 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:46 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:46 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:48 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:49 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:51 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:51 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:53 - INFO - query for the following criteria | {}
+7.11.2024, 0:35:53 - INFO - query for the following criteria | {}
+7.11.2024, 0:36:02 - INFO - query for the following criteria | {}
+7.11.2024, 0:36:02 - INFO - query for the following criteria | {}
+7.11.2024, 0:36:51 - INFO - query for the following criteria | {}
+7.11.2024, 0:36:51 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:40 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:40 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:42 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:42 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:44 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:44 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:46 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:46 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:49 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:49 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:52 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:52 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:54 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:54 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:57 - INFO - query for the following criteria | {}
+7.11.2024, 0:38:57 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:17 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:17 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:19 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:19 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:21 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:21 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:22 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:23 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:25 - INFO - query for the following criteria | {}
+7.11.2024, 0:41:25 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:21 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:22 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:26 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:26 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:28 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:28 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:30 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:30 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:32 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:32 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:34 - INFO - query for the following criteria | {}
+7.11.2024, 0:42:35 - INFO - query for the following criteria | {}
+7.11.2024, 0:43:20 - INFO - query for the following criteria | {}
+7.11.2024, 0:43:21 - INFO - query for the following criteria | {}
+7.11.2024, 0:43:31 - INFO - query for the following criteria | {}
+7.11.2024, 0:43:31 - INFO - query for the following criteria | {}
+7.11.2024, 0:48:33 - INFO - Example app listening on port 3030
+7.11.2024, 0:54:37 - INFO - Example app listening on port 3030
+7.11.2024, 0:56:48 - INFO - query for the following criteria | {}
+7.11.2024, 0:56:48 - INFO - query for the following criteria | {}
+7.11.2024, 8:37:05 - INFO - query for the following criteria | {}
+7.11.2024, 8:37:12 - INFO - query for the following criteria | {}
+7.11.2024, 8:37:28 - INFO - query for the following criteria | {}
+7.11.2024, 8:37:32 - INFO - query for the following criteria | {}
+7.11.2024, 8:38:00 - INFO - query for the following criteria | {}
+7.11.2024, 8:39:20 - INFO - query for the following criteria | {}
+7.11.2024, 8:39:20 - INFO - query for the following criteria | {}
+7.11.2024, 8:39:25 - INFO - query for the following criteria | {}
+7.11.2024, 8:39:26 - INFO - query for the following criteria | {}
+7.11.2024, 8:41:00 - INFO - query for the following criteria | {}
+7.11.2024, 8:41:04 - INFO - query for the following criteria | {}
+7.11.2024, 8:41:05 - INFO - query for the following criteria | {}
+7.11.2024, 8:41:52 - INFO - query for the following criteria | {}
+7.11.2024, 8:41:55 - INFO - query for the following criteria | {}
+7.11.2024, 8:41:55 - INFO - query for the following criteria | {}
+7.11.2024, 8:42:40 - INFO - query for the following criteria | {}
+7.11.2024, 8:42:47 - INFO - query for the following criteria | {}
+7.11.2024, 8:42:56 - INFO - query for the following criteria | {}
+7.11.2024, 8:43:00 - INFO - query for the following criteria | {}
+7.11.2024, 8:43:00 - INFO - query for the following criteria | {}
+7.11.2024, 8:43:22 - INFO - query for the following criteria | {}
+7.11.2024, 8:44:51 - INFO - query for the following criteria | {}
+7.11.2024, 8:44:52 - INFO - query for the following criteria | {}
+7.11.2024, 8:46:01 - INFO - query for the following criteria | {}
+7.11.2024, 8:46:02 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:13 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:14 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:18 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:18 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:20 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:21 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:25 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:26 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:29 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:29 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:36 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:36 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:48 - INFO - query for the following criteria | {}
+7.11.2024, 8:47:49 - INFO - query for the following criteria | {}
+7.11.2024, 8:49:06 - INFO - query for the following criteria | {}
+7.11.2024, 8:51:20 - INFO - query for the following criteria | {}
+7.11.2024, 14:27:01 - INFO - query for the following criteria | {}
+7.11.2024, 14:28:12 - INFO - query for the following criteria | {}
+7.11.2024, 14:29:55 - INFO - query for the following criteria | {}
+7.11.2024, 14:29:56 - INFO - query for the following criteria | {}
+7.11.2024, 14:31:47 - INFO - query for the following criteria | {}
+7.11.2024, 14:31:48 - INFO - query for the following criteria | {}
+7.11.2024, 14:33:07 - INFO - query for the following criteria | {}
+7.11.2024, 14:33:08 - INFO - query for the following criteria | {}
+7.11.2024, 14:34:18 - INFO - query for the following criteria | {}
+7.11.2024, 14:34:19 - INFO - query for the following criteria | {}
+7.11.2024, 14:42:53 - INFO - query for the following criteria | {}
+7.11.2024, 14:42:54 - INFO - query for the following criteria | {}
+7.11.2024, 14:43:04 - INFO - Example app listening on port 3030
+7.11.2024, 14:43:09 - INFO - query for the following criteria | {}
+7.11.2024, 14:43:09 - INFO - query for the following criteria | {}
+7.11.2024, 21:07:59 - INFO - Example app listening on port 3030
+7.11.2024, 21:08:06 - INFO - Example app listening on port 3030
+7.11.2024, 21:10:19 - INFO - Example app listening on port 3030
+7.11.2024, 21:13:04 - INFO - Example app listening on port 3030
+7.11.2024, 21:16:52 - INFO - Example app listening on port 3030
+7.11.2024, 21:17:06 - INFO - Example app listening on port 3030
+7.11.2024, 21:17:18 - INFO - Example app listening on port 3030
+7.11.2024, 21:17:31 - INFO - query for the following criteria | {}
+7.11.2024, 21:17:31 - INFO - query for the following criteria | {}
+7.11.2024, 21:17:55 - ERROR - could not remove bug : 67290429a1935695a5ea0c1d | ReferenceError: asyncLocalStorage is not defined
+7.11.2024, 21:17:55 - ERROR - removeBug failed: Error: could not remove bug
+7.11.2024, 21:18:10 - ERROR - could not remove bug : 67290429a1935695a5ea0c1d | ReferenceError: asyncLocalStorage is not defined
+7.11.2024, 21:18:10 - ERROR - removeBug failed: Error: could not remove bug
+4.12.2024, 9:41:23 - INFO - Example app listening on port 3030
+4.12.2024, 9:43:02 - INFO - Example app listening on port 3030
+4.12.2024, 9:43:08 - INFO - here
+4.12.2024, 9:43:08 - INFO - here
+4.12.2024, 9:43:08 - INFO - here
+4.12.2024, 9:43:08 - INFO - here
+4.12.2024, 9:43:08 - INFO - here
+4.12.2024, 9:43:08 - INFO - here
+4.12.2024, 9:43:25 - INFO - Example app listening on port 3030
+4.12.2024, 9:43:40 - INFO - Example app listening on port 3030
+4.12.2024, 9:47:22 - INFO - Example app listening on port 3030
+4.12.2024, 9:47:52 - INFO - Example app listening on port 3030
+4.12.2024, 9:50:17 - INFO - Example app listening on port 3030
+4.12.2024, 9:50:34 - INFO - Example app listening on port 3030
