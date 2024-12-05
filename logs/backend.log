@@ -1570,3 +1570,195 @@
 4.12.2024, 9:47:52 - INFO - Example app listening on port 3030
 4.12.2024, 9:50:17 - INFO - Example app listening on port 3030
 4.12.2024, 9:50:34 - INFO - Example app listening on port 3030
+4.12.2024, 10:05:47 - INFO - Example app listening on port 3030
+4.12.2024, 10:07:15 - INFO - Example app listening on port 3030
+4.12.2024, 10:10:22 - INFO - Example app listening on port 3030
+4.12.2024, 10:11:26 - INFO - Example app listening on port 3030
+4.12.2024, 10:11:34 - INFO - Example app listening on port 3030
+4.12.2024, 10:12:10 - INFO - Example app listening on port 3030
+4.12.2024, 10:12:19 - INFO - Example app listening on port 3030
+4.12.2024, 10:13:08 - INFO - Example app listening on port 3030
+4.12.2024, 10:13:49 - INFO - Example app listening on port 3030
+4.12.2024, 10:26:51 - INFO - Example app listening on port 3030
+4.12.2024, 10:40:40 - INFO - query for the following criteria | {}
+4.12.2024, 10:41:37 - INFO - query for the following criteria | {}
+4.12.2024, 10:41:54 - INFO - query for the following criteria | {}
+4.12.2024, 10:45:00 - INFO - query for the following criteria | {}
+4.12.2024, 10:45:11 - INFO - query for the following criteria | {}
+4.12.2024, 10:47:02 - INFO - query for the following criteria | {}
+4.12.2024, 10:47:35 - INFO - query for the following criteria | {}
+4.12.2024, 10:47:41 - INFO - query for the following criteria | {}
+4.12.2024, 10:48:55 - INFO - query for the following criteria | {}
+4.12.2024, 10:48:59 - INFO - query for the following criteria | {}
+4.12.2024, 10:51:12 - INFO - query for the following criteria | {}
+4.12.2024, 10:51:57 - INFO - query for the following criteria | {}
+4.12.2024, 10:52:06 - INFO - query for the following criteria | {}
+4.12.2024, 10:54:59 - INFO - query for the following criteria | {}
+4.12.2024, 10:55:45 - INFO - query for the following criteria | {}
+4.12.2024, 10:57:26 - INFO - query for the following criteria | {}
+4.12.2024, 10:57:33 - INFO - query for the following criteria | {}
+4.12.2024, 10:58:22 - INFO - query for the following criteria | {}
+4.12.2024, 11:00:06 - INFO - query for the following criteria | {}
+4.12.2024, 11:00:10 - INFO - query for the following criteria | {}
+4.12.2024, 11:01:07 - INFO - query for the following criteria | {}
+4.12.2024, 11:01:13 - INFO - query for the following criteria | {}
+4.12.2024, 11:02:12 - INFO - query for the following criteria | {}
+4.12.2024, 11:02:19 - INFO - query for the following criteria | {}
+4.12.2024, 11:06:21 - INFO - query for the following criteria | {}
+4.12.2024, 11:09:04 - INFO - query for the following criteria | {}
+4.12.2024, 11:09:51 - INFO - query for the following criteria | {}
+4.12.2024, 11:12:32 - INFO - query for the following criteria | {}
+4.12.2024, 11:13:32 - INFO - query for the following criteria | {}
+4.12.2024, 11:13:52 - INFO - query for the following criteria | {}
+4.12.2024, 11:14:06 - INFO - query for the following criteria | {}
+4.12.2024, 11:14:13 - INFO - query for the following criteria | {}
+4.12.2024, 11:15:45 - INFO - query for the following criteria | {}
+4.12.2024, 11:15:49 - INFO - query for the following criteria | {}
+4.12.2024, 11:16:14 - INFO - query for the following criteria | {}
+4.12.2024, 11:16:31 - INFO - query for the following criteria | {}
+4.12.2024, 11:57:02 - INFO - Example app listening on port 3030
+4.12.2024, 12:03:02 - INFO - Example app listening on port 3030
+4.12.2024, 12:03:50 - INFO - query for the following criteria | {}
+4.12.2024, 12:08:04 - INFO - Example app listening on port 3030
+4.12.2024, 12:08:20 - INFO - query for the following criteria | {}
+4.12.2024, 12:09:02 - INFO - Example app listening on port 3030
+4.12.2024, 12:09:06 - INFO - query for the following criteria | {}
+4.12.2024, 12:11:37 - INFO - query for the following criteria | {}
+4.12.2024, 12:11:39 - DEBUG - here?
+4.12.2024, 12:14:01 - INFO - Example app listening on port 3030
+4.12.2024, 12:14:12 - INFO - Example app listening on port 3030
+4.12.2024, 12:14:20 - INFO - query for the following criteria | {}
+4.12.2024, 12:14:22 - ERROR - could not find playing : getAudio | BSONError: hex string must be 24 characters
+4.12.2024, 12:14:22 - ERROR - Cannot get playing | Error: could not find playing
+4.12.2024, 12:15:45 - INFO - Example app listening on port 3030
+4.12.2024, 12:15:51 - INFO - query for the following criteria | {}
+4.12.2024, 12:15:52 - ERROR - could not find playing : getAudio | BSONError: hex string must be 24 characters
+4.12.2024, 12:15:52 - ERROR - Cannot get playing | Error: could not find playing
+4.12.2024, 12:16:20 - INFO - Example app listening on port 3030
+4.12.2024, 12:16:24 - INFO - query for the following criteria | {}
+4.12.2024, 12:16:26 - ERROR - could not find playing : getAudio | BSONError: hex string must be 24 characters
+4.12.2024, 12:16:26 - ERROR - Cannot get playing | Error: could not find playing
+4.12.2024, 12:17:39 - INFO - Example app listening on port 3030
+4.12.2024, 12:20:19 - INFO - Example app listening on port 3030
+4.12.2024, 12:21:00 - INFO - Example app listening on port 3030
+4.12.2024, 12:21:10 - INFO - query for the following criteria | {}
+4.12.2024, 12:22:40 - INFO - Example app listening on port 3030
+4.12.2024, 12:22:46 - INFO - query for the following criteria | {}
+4.12.2024, 12:22:49 - DEBUG - here?
+4.12.2024, 12:23:59 - INFO - Example app listening on port 3030
+4.12.2024, 12:25:25 - INFO - query for the following criteria | {}
+4.12.2024, 12:26:10 - INFO - query for the following criteria | {}
+4.12.2024, 12:26:17 - INFO - query for the following criteria | {}
+4.12.2024, 12:26:22 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:27:27 - INFO - query for the following criteria | {}
+4.12.2024, 12:27:58 - INFO - query for the following criteria | {}
+4.12.2024, 12:28:02 - INFO - query for the following criteria | {}
+4.12.2024, 12:30:02 - INFO - query for the following criteria | {}
+4.12.2024, 12:30:14 - INFO - query for the following criteria | {}
+4.12.2024, 12:30:17 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:31:39 - INFO - query for the following criteria | {}
+4.12.2024, 12:31:41 - INFO - query for the following criteria | {}
+4.12.2024, 12:32:57 - INFO - query for the following criteria | {}
+4.12.2024, 12:32:59 - INFO - query for the following criteria | {}
+4.12.2024, 12:33:33 - INFO - query for the following criteria | {}
+4.12.2024, 12:33:37 - INFO - query for the following criteria | {}
+4.12.2024, 12:33:41 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:35:03 - INFO - query for the following criteria | {}
+4.12.2024, 12:35:08 - INFO - query for the following criteria | {}
+4.12.2024, 12:35:11 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:36:26 - INFO - query for the following criteria | {}
+4.12.2024, 12:36:30 - INFO - query for the following criteria | {}
+4.12.2024, 12:36:33 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:37:01 - INFO - query for the following criteria | {}
+4.12.2024, 12:37:15 - INFO - query for the following criteria | {}
+4.12.2024, 12:37:19 - INFO - query for the following criteria | {}
+4.12.2024, 12:37:21 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:40:18 - INFO - query for the following criteria | {}
+4.12.2024, 12:40:25 - INFO - query for the following criteria | {}
+4.12.2024, 12:40:28 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:42:17 - INFO - query for the following criteria | {}
+4.12.2024, 12:42:21 - INFO - query for the following criteria | {}
+4.12.2024, 12:42:36 - INFO - query for the following criteria | {}
+4.12.2024, 12:42:40 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:50:15 - INFO - Example app listening on port 3030
+4.12.2024, 12:50:29 - INFO - query for the following criteria | {}
+4.12.2024, 12:50:32 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:51:36 - INFO - query for the following criteria | {}
+4.12.2024, 12:51:39 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:56:21 - INFO - query for the following criteria | {}
+4.12.2024, 12:56:24 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:56:54 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:56:56 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 12:59:57 - INFO - Example app listening on port 3030
+4.12.2024, 12:59:57 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:00:00 - INFO - query for the following criteria | {}
+4.12.2024, 13:00:02 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:03:40 - INFO - Example app listening on port 3030
+4.12.2024, 13:03:45 - INFO - query for the following criteria | {}
+4.12.2024, 13:03:48 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:05:15 - INFO - Example app listening on port 3030
+4.12.2024, 13:05:18 - INFO - query for the following criteria | {}
+4.12.2024, 13:05:20 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:06:23 - INFO - Example app listening on port 3030
+4.12.2024, 13:06:31 - INFO - query for the following criteria | {}
+4.12.2024, 13:06:34 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:06:35 - ERROR - Audio URL is invalid or expired
+4.12.2024, 13:09:25 - INFO - Example app listening on port 3030
+4.12.2024, 13:13:59 - INFO - Example app listening on port 3030
+4.12.2024, 13:14:23 - INFO - query for the following criteria | {}
+4.12.2024, 13:14:36 - INFO - query for the following criteria | {}
+4.12.2024, 13:14:49 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:15:43 - INFO - query for the following criteria | {}
+4.12.2024, 13:15:47 - INFO - query for the following criteria | {}
+4.12.2024, 13:15:50 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:20:11 - INFO - query for the following criteria | {}
+4.12.2024, 13:20:16 - INFO - query for the following criteria | {}
+4.12.2024, 13:20:28 - INFO - query for the following criteria | {}
+4.12.2024, 13:20:31 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:21:54 - INFO - query for the following criteria | {}
+4.12.2024, 13:21:59 - INFO - query for the following criteria | {}
+4.12.2024, 13:22:12 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:22:27 - INFO - query for the following criteria | {}
+4.12.2024, 13:22:30 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:23:10 - INFO - query for the following criteria | {}
+4.12.2024, 13:23:14 - INFO - query for the following criteria | {}
+4.12.2024, 13:23:17 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:26:38 - INFO - query for the following criteria | {}
+4.12.2024, 13:26:42 - INFO - query for the following criteria | {}
+4.12.2024, 13:26:44 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:28:17 - INFO - query for the following criteria | {}
+4.12.2024, 13:28:22 - INFO - query for the following criteria | {}
+4.12.2024, 13:28:24 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 13:30:28 - INFO - query for the following criteria | {}
+4.12.2024, 16:59:32 - INFO - Example app listening on port 3030
+4.12.2024, 17:00:22 - INFO - query for the following criteria | {}
+4.12.2024, 17:03:22 - INFO - Example app listening on port 3030
+4.12.2024, 17:03:31 - INFO - query for the following criteria | {}
+4.12.2024, 17:03:38 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 17:06:07 - INFO - Example app listening on port 3030
+4.12.2024, 17:06:14 - INFO - query for the following criteria | {}
+4.12.2024, 17:06:17 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 17:11:05 - INFO - Example app listening on port 3030
+4.12.2024, 17:11:09 - INFO - Example app listening on port 3030
+4.12.2024, 17:12:01 - INFO - query for the following criteria | {}
+4.12.2024, 17:12:06 - INFO - query for the following criteria | {}
+4.12.2024, 17:12:09 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 17:35:32 - INFO - Example app listening on port 3030
+4.12.2024, 17:35:37 - INFO - query for the following criteria | {}
+4.12.2024, 17:35:43 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 17:37:06 - INFO - Example app listening on port 3030
+4.12.2024, 17:37:19 - INFO - query for the following criteria | {}
+4.12.2024, 17:37:22 - DEBUG - getAudioById  | UpYu9FgcxKo
+4.12.2024, 17:38:05 - INFO - query for the following criteria | {}
+4.12.2024, 17:38:39 - DEBUG - getAudioById  | UpYu9FgcxKo
+5.12.2024, 7:54:32 - INFO - query for the following criteria | {}
+5.12.2024, 7:54:35 - INFO - query for the following criteria | {}
+5.12.2024, 7:55:25 - INFO - query for the following criteria | {}
+5.12.2024, 7:55:32 - INFO - query for the following criteria | {}
+5.12.2024, 7:56:59 - INFO - query for the following criteria | {}
+5.12.2024, 7:57:33 - INFO - query for the following criteria | {}
+5.12.2024, 7:57:46 - INFO - query for the following criteria | {}
+5.12.2024, 7:57:53 - INFO - query for the following criteria | {}
+5.12.2024, 9:01:36 - INFO - query for the following criteria | {}
+5.12.2024, 9:06:28 - INFO - Example app listening on port 3030
+5.12.2024, 9:06:40 - INFO - Example app listening on port 3030

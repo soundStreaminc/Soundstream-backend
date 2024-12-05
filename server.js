@@ -25,6 +25,9 @@ app.use( cors ( coreOptions ))
 // import {bugRoutes} from './api/bug/bug.routes.js'
 // app.use('/api/bug', bugRoutes )
 
+import {playingRoutes} from './api/playing/playing.routes.js'
+app.use('/api/playing', playingRoutes )
+
 import {userRoutes} from './api/user/user.routes.js'
 app.use('/api/user', userRoutes )
 
