@@ -138,3 +138,20 @@ export async function  getAudioById(req, res){
     res.status(500).json({ error: "Failed to fetch audio" });
   }
 }
+
+async function isURLValid(url) {
+    return new Promise((resolve) => {
+      https.get(url, (res) => {
+        resolve(res.statusCode === 200);
+      }).on('error', () => {
+        resolve(false);
+      });
+    });
+
+    // usage example:
+    // if (await isURLValid(audioURL)) {
+    //     res.json({ audioURL });
+    //   } else {
+    //     res.status(500).json({ error: "Audio URL is invalid or expired" });
+    //   }
+  }
