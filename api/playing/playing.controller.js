@@ -32,10 +32,9 @@ export async function updatePlaying (req, res) {
 }
 
 export async function addPlaying  (req, res)  {
-    const {loggedinUser, body: playing} = req
+    const {body: playing} = req
     
     try {
-        playing.owner = loggedinUser
         const savedPlaying = await playingService.add( playing )
         res.json(savedPlaying)
     } catch (err) {
@@ -64,11 +63,9 @@ export async function getPlaying  (req, res) {
 }
 
 export async function removePlaying  (req, res)  {
-    const {loggedinUser} = req
-
     const {playingId} = req.params
     try{
-        await playingService.remove( playingId , loggedinUser )
+        await playingService.remove( playingId )
         res.send('OK')
     } catch (err ){
         loggerService.error(`removePlaying failed: ${err}`)

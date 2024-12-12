@@ -68,11 +68,8 @@ async function getById( playingId ){
 
 async function remove( playingId){
     try{
-        const { loggedinUser } = asyncLocalStorage.getStore()
-        const { _id: ownerId, isAdmin } = loggedinUser
 
-        const criteria = { _id : ObjectId.createFromHexString( playingId)}
-        if(!isAdmin) criteria['owner._id'] = ownerId
+        const criteria = { id :  playingId}
         
         const collection = await dbService.getCollection('playing')
         const res =  await collection.deleteOne(criteria )

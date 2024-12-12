@@ -1766,3 +1766,48 @@
 5.12.2024, 22:34:16 - INFO - Example app listening on port 3030
 7.12.2024, 21:43:16 - INFO - Example app listening on port 3030
 7.12.2024, 21:43:53 - INFO - Example app listening on port 3030
+12.12.2024, 6:49:19 - INFO - query for the following criteria | {}
+12.12.2024, 6:51:52 - INFO - query for the following criteria | {}
+12.12.2024, 7:14:14 - INFO - query for the following criteria | {}
+12.12.2024, 7:14:39 - INFO - query for the following criteria | {}
+12.12.2024, 7:18:53 - INFO - query for the following criteria | {}
+12.12.2024, 7:18:58 - INFO - query for the following criteria | {}
+12.12.2024, 7:18:58 - INFO - query for the following criteria | {}
+12.12.2024, 7:19:28 - INFO - query for the following criteria | {}
+12.12.2024, 7:19:35 - INFO - query for the following criteria | {}
+12.12.2024, 7:19:35 - INFO - query for the following criteria | {}
+12.12.2024, 7:19:39 - INFO - query for the following criteria | {}
+12.12.2024, 7:19:39 - INFO - query for the following criteria | {}
+12.12.2024, 8:08:40 - INFO - Example app listening on port 3030
+12.12.2024, 8:08:44 - INFO - query for the following criteria | {}
+12.12.2024, 8:08:44 - INFO - query for the following criteria | {}
+12.12.2024, 8:09:05 - INFO - Example app listening on port 3030
+12.12.2024, 8:10:19 - INFO - query for the following criteria | {}
+12.12.2024, 8:10:19 - INFO - query for the following criteria | {}
+12.12.2024, 8:11:48 - INFO - query for the following criteria | {}
+12.12.2024, 8:11:48 - INFO - query for the following criteria | {}
+12.12.2024, 8:15:40 - INFO - query for the following criteria | {}
+12.12.2024, 8:15:41 - INFO - query for the following criteria | {}
+12.12.2024, 8:17:35 - INFO - Example app listening on port 3030
+12.12.2024, 8:17:53 - INFO - Example app listening on port 3030
+12.12.2024, 8:19:08 - INFO - query for the following criteria | {}
+12.12.2024, 8:19:46 - INFO - query for the following criteria | {}
+12.12.2024, 8:20:54 - INFO - query for the following criteria | {}
+12.12.2024, 8:21:00 - INFO - query for the following criteria | {}
+12.12.2024, 8:23:24 - INFO - query for the following criteria | {}
+12.12.2024, 8:24:19 - INFO - query for the following criteria | {}
+12.12.2024, 8:24:51 - INFO - query for the following criteria | {}
+12.12.2024, 8:25:05 - INFO - query for the following criteria | {}
+12.12.2024, 8:25:12 - INFO - query for the following criteria | {}
+12.12.2024, 8:25:17 - ERROR - could not remove playing : 78Suoigk80gI9mI9z5tYl8 | ReferenceError: asyncLocalStorage is not defined
+12.12.2024, 8:25:17 - ERROR - removePlaying failed: Error: could not remove playing
+12.12.2024, 8:26:56 - INFO - Example app listening on port 3030
+12.12.2024, 8:27:37 - INFO - Example app listening on port 3030
+12.12.2024, 8:27:40 - ERROR - could not remove playing : 78Suoigk80gI9mI9z5tYl8 | BSONError: hex string must be 24 characters
+12.12.2024, 8:27:40 - ERROR - removePlaying failed: Error: could not remove playing
+12.12.2024, 8:28:52 - INFO - Example app listening on port 3030
+12.12.2024, 8:28:57 - ERROR - could not remove playing : 78Suoigk80gI9mI9z5tYl8 | BSONError: hex string must be 24 characters
+12.12.2024, 8:28:57 - ERROR - removePlaying failed: Error: could not remove playing
+12.12.2024, 8:29:48 - INFO - Example app listening on port 3030
+12.12.2024, 8:30:05 - INFO - query for the following criteria | {}
+12.12.2024, 8:33:31 - INFO - query for the following criteria | {}
